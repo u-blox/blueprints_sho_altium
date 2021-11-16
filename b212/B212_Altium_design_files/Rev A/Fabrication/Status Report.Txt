@@ -1,0 +1,10 @@
+Output: Assembly BOM
+Type  : BOM
+From  : Variant [[No Variations]] of Project [B212_ANNA-B1_Corner_carrier_mid.PrjPcb]
+   Generated File[B212_A.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 2:59:20 PM On 10/25/2020

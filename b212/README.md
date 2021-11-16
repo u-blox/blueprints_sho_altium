@@ -1,5 +1,5 @@
-# blueprints
-Design files and source code for blueprints/reference designs
+# B212 Blueprint / reference design
+Altium design files for the B212 blueprint / reference design
 --------------------------------------------------------------------------------
 
 Copyright © u-blox

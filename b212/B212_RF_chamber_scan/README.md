@@ -21,8 +21,8 @@ Contribution provided to us for any purpose without fee.
 
 -------------------------------------------------------------------------------
 
-Open the HTML file in a web browser. Ensure the corresponding data folder
-remains in the same folder as the HTML file.
+Clone the repository locally. Open the local HTML file in a web browser. 
+Ensure the corresponding data folder remains in the same folder as the HTML file.
 
 The 2D plot file shows the X-Y, X-Z, and Y-Z planes with horizontal and vertical
 receiving antenna orientation.

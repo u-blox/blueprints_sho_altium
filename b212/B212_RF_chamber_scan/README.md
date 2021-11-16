@@ -27,7 +27,7 @@ Ensure the corresponding data folder remains in the same folder as the HTML file
 The 2D plot file shows the X-Y, X-Z, and Y-Z planes with horizontal and vertical
 receiving antenna orientation.
 
-The 3D plot files have identical data, though the initial view if of the selected
+The 3D plot files have identical data, though the initial view is of the selected
 plane, X-Y, X-Z, or Y-Z. The plot may be rotated by clicking and dragging the
 plot. A right click and drag will move the plot. The mouse wheel will zoom in
 and out.

@@ -22,7 +22,7 @@ Contribution provided to us for any purpose without fee.
 
 -------------------------------------------------------------------------------
 
-3D RF chamber scan of the selected blueprint / reference design
+3D RF chamber scan of the blueprint / reference design
 ===============================================================
 
 Open the HTML file in a web browser. Ensure the corresponding data folder

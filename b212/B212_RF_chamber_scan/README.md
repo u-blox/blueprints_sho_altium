@@ -1,4 +1,5 @@
-# Blueprint / reference design RF chamber scan
+3D RF chamber scan of the blueprint / reference design
+======================================================
 
 --------------------------------------------------------------------------------
 
@@ -21,9 +22,6 @@ same rights as granted to you, namely to use, copy, modify and distribute the
 Contribution provided to us for any purpose without fee.
 
 -------------------------------------------------------------------------------
-
-3D RF chamber scan of the blueprint / reference design
-===============================================================
 
 Open the HTML file in a web browser. Ensure the corresponding data folder
 remains in the same folder as the HTML file.

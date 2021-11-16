@@ -1,6 +1,7 @@
 # Blueprint / reference design RF chamber scan
 3D RF chamber scan of the selected blueprint / reference design
 --------------------------------------------------------------------------------
+
 Copyright © u-blox
 
 u-blox reserves all rights in this deliverable (documentation, software, etc.,
@@ -18,7 +19,9 @@ In case you provide us a feedback or make a contribution in the form of a
 further development of the Deliverable (“Contribution”), u-blox will have the
 same rights as granted to you, namely to use, copy, modify and distribute the
 Contribution provided to us for any purpose without fee.
+
 -------------------------------------------------------------------------------
+
 RF chamber scan
 ---------------
 

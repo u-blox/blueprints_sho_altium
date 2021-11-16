@@ -1,5 +1,5 @@
 # Blueprint / reference design RF chamber scan
-3D RF chamber scan of the selected blueprint / reference design
+
 --------------------------------------------------------------------------------
 
 Copyright © u-blox
@@ -22,8 +22,8 @@ Contribution provided to us for any purpose without fee.
 
 -------------------------------------------------------------------------------
 
-RF chamber scan
-===============
+3D RF chamber scan of the selected blueprint / reference design
+===============================================================
 
 Open the HTML file in a web browser. Ensure the corresponding data folder
 remains in the same folder as the HTML file.

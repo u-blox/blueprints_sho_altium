@@ -55,8 +55,9 @@ Directory structure
 Chamber scans
 ---------------------------------------------------------------------------------
 If an RF chamber scan exists for the blueprint, it can be found in this folder.
-The chamber scan folders contain four matching HTML files and folders. To see the
-2D and 3D chamber scans, open the respective HTML file with a browser. 
+The chamber scan folders contain a zip file for each board. Each zip file
+ontains our matching HTML files and folders. To see the 2D and 3D chamber scans,
+open the respective HTML file with a browser. 
 
 The 2D file shows separate plots for horizontal, vertical, and combined readings
 for the X-Y, X-Z, and Y-Z planes. 

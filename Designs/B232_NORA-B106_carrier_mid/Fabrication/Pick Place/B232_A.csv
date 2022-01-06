@@ -1,0 +1,30 @@
+Altium Designer Pick and Place Locations
+C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B232_NORA-B106_carrier_mid\Rev A\.\Fabrication\Pick Place\B232_A.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       03/09/21
+Time:       09:59
+Revision:   1736
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"C1","UBXH01-2021002100N","TopLayer","Cap_0402","18.2500","6.7000","0","CAP CER X5R 0402"
+"D3","115-00011","TopLayer","4-PLCC","10.7500","16.2500","180","LED, RGB Diffused SMT, PLCC4 4 Pin"
+"RTS_NET1","TP","TopLayer","TP10R","26.2500","10.4000","90","Testpoint, Round 1.0mm Dia"
+"CTS_NET1","TP","TopLayer","TP10R","26.2500","8.7500","90","Testpoint, Round 1.0mm Dia"
+"U1","NORA-B106","TopLayer","NORA_LGA82R_1430X1040X180_ANT","20.0000","14.6500","90","u-blox NORA-B106 Bluetooth 5.2 LE module - dual core"
+"P2","61300811021","TopLayer","61300811021","20.0000","4.1700","360","THT Angled Pin Header WR-PHD, Pitch 2.54 mm, Single Row, 8 pins"
+"MH2","MH_M1.5DNP","TopLayer","MH_M1.5","37.5000","2.5000","0","1.5M screw mounting hole, plated"
+"MH1","MH_M1.5DNP","TopLayer","MH_M1.5","2.5000","2.5000","0","1.5M screw mounting hole, plated"
+"P1","TC2030-IDC-NLDNP","TopLayer","TC2030-IDC-NL","37.4900","8.9950","270","CON PADS FOR CBL PLUG-OF-NAILS 6-PIN NO LEGS"
+"X1","100-00005","TopLayer","XTAL_3215","13.5000","10.4000","270","XTAL, 2Pin, 32.768kHz, 7pF 20ppm"
+"SW2","135-00007","TopLayer","B3U-1000P","32.0000","9.5500","360","Button, Momentary SPST-NO, 0.05A, 12V, 3mm x 2.5mm"
+"SW1","135-00007","TopLayer","B3U-1000P","8.0000","9.5500","180","Button, Momentary SPST-NO, 0.05A, 12V, 3mm x 2.5mm"
+"R3","180-00098220R","TopLayer","RES_0402_HD","13.0500","16.8000","360","Resistor, 220ohm, 5%, 1/16W, 0402."
+"R2","180-00098220R","TopLayer","RES_0402_HD","13.0500","15.7000","360","Resistor, 220ohm, 5%, 1/16W, 0402."
+"R1","180-00031499R","TopLayer","RES_0402_HD","8.4500","15.7000","180","Resistor, 499ohm, 1%, 1/16W, 0402"
+"D2","110-00019","TopLayer","SOD-923","28.7250","9.9750","90","Diode, ESD9B, 3.3V, ST5G, SOD-923"
+"D1","110-00019","TopLayer","SOD-923","11.0500","9.9750","90","Diode, ESD9B, 3.3V, ST5G, SOD-923"

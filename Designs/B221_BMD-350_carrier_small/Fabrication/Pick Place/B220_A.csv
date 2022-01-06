@@ -1,0 +1,43 @@
+Altium Designer Pick and Place Locations
+C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B221_BMD-350_carrier_small\Rev A\.\Fabrication\Pick Place\B220_A.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       02/09/21
+Time:       17:58
+Revision:   1736
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"D3","115-00011","TopLayer","4-PLCC","11.0000","14.5000","180","LED, RGB Diffused SMT, PLCC4 4 Pin"
+"X1","100-00005","TopLayer","XTAL_3215","13.5750","29.6750","180","XTAL, 2Pin, 32.768kHz, 7pF 20ppm"
+"R3","UBXH18-0008033220R","TopLayer","RES_0402_HD","4.0000","20.0000","90","RES THICK FILM CHIP 0402"
+"R2","UBXH18-0008033220R","TopLayer","RES_0402_HD","2.4000","20.0000","90","RES THICK FILM CHIP 0402"
+"R1","UBXH18-0008033220R","TopLayer","RES_0402_HD","3.2000","20.0000","90","RES THICK FILM CHIP 0402"
+"C3","UBXH01-2021002100N","TopLayer","Cap_0402","15.8000","32.2250","360","CAP CER X5R 0402"
+"U1","=Value","TopLayer","BMD_LGA47S_865X640X150_CHIP","11.0000","35.4875","0","u-blox BMD-350 Bluetooth 5 LE module"
+"R14","UBXH18-0008033220R","TopLayer","RES_0402_HD","13.0000","20.0000","270","RES THICK FILM CHIP 0402"
+"R13","UBXH18-0008033220R","TopLayer","RES_0402_HD","12.2000","20.0000","270","RES THICK FILM CHIP 0402"
+"R12","UBXH18-0008033220R","TopLayer","RES_0402_HD","15.6000","20.0000","270","RES THICK FILM CHIP 0402"
+"R11","UBXH18-0008033220R","TopLayer","RES_0402_HD","11.4000","20.0000","270","RES THICK FILM CHIP 0402"
+"R10","UBXH18-0008033220R","TopLayer","RES_0402_HD","10.6000","20.0000","270","RES THICK FILM CHIP 0402"
+"R9","UBXH18-0008033220R","TopLayer","RES_0402_HD","16.4000","20.0000","270","RES THICK FILM CHIP 0402"
+"R8","UBXH18-0008033220R","TopLayer","RES_0402_HD","6.4000","20.0000","90","RES THICK FILM CHIP 0402"
+"R7","UBXH18-0008033220R","TopLayer","RES_0402_HD","9.0000","20.0000","90","RES THICK FILM CHIP 0402"
+"L2","LQW18AN22NJ10D","TopLayer","INDC1608X100X30LL20T10","7.7000","20.0000","90","Chip Inductor, 22 nH, +/-5%, 640 mA, -55 to 125 degC, 0603 (1608 Metric), RoHS, Tape and Reel"
+"L1","LQW18AN22NJ10D","TopLayer","INDC1608X100X30LL20T10","14.3000","20.0000","90","Chip Inductor, 22 nH, +/-5%, 640 mA, -55 to 125 degC, 0603 (1608 Metric), RoHS, Tape and Reel"
+"P2","61300811021","TopLayer","61300811021","11.0000","4.2200","360","THT Angled Pin Header WR-PHD, Pitch 2.54 mm, Single Row, 8 pins"
+"MH2","MH_M1.5DNP","TopLayer","MH_M1.5","18.5000","10.0000","0","1.5M screw mounting hole, plated"
+"MH1","MH_M1.5DNP","TopLayer","MH_M1.5","3.5000","10.0000","0","1.5M screw mounting hole, plated"
+"P1","TC2030-IDC-NLDNP","TopLayer","TC2030-IDC-NL","11.0000","10.0100","360","CON PADS FOR CBL PLUG-OF-NAILS 6-PIN NO LEGS"
+"SW2","135-00007","TopLayer","B3U-1000P","18.5000","15.0000","180","Button, Momentary SPST-NO, 0.05A, 12V, 3mm x 2.5mm"
+"SW1","135-00007","TopLayer","B3U-1000P","3.5000","15.0000","360","Button, Momentary SPST-NO, 0.05A, 12V, 3mm x 2.5mm"
+"R6","180-00098220R","TopLayer","RES_0402_HD","5.6000","20.0000","270","Resistor, 220ohm, 5%, 1/16W, 0402."
+"R5","180-00098220R","TopLayer","RES_0402_HD","4.8000","20.0000","270","Resistor, 220ohm, 5%, 1/16W, 0402."
+"R4","180-00031499R","TopLayer","RES_0402_HD","9.8000","20.0000","270","Resistor, 499ohm, 1%, 1/16W, 0402"
+"D2","110-00019","TopLayer","SOD-923","18.5000","17.0000","180","Diode, ESD9B, 3.3V, ST5G, SOD-923"
+"D1","110-00019","TopLayer","SOD-923","3.5000","17.0000","360","Diode, ESD9B, 3.3V, ST5G, SOD-923"
+"C2","UBXH01-000411410P","TopLayer","Cap_0402","12.2750","27.7500","270","CAP CER COG 0402"
+"C1","UBXH01-000411410P","TopLayer","Cap_0402","14.8750","27.7500","270","CAP CER COG 0402"

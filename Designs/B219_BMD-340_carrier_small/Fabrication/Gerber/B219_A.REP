@@ -1,0 +1,373 @@
+*************************************************************
+FileName = B219_A.GBR
+AutoAperture = True
+*************************************************************
+Generating : Courtyard Top
+      File : B219_A.GM15
+
+    Adding Layer      : Courtyard Top
+
+    Adding Layer      : Border & Title
+
+
+Used DCodes :
+    D45
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Assembly Bottom
+      File : B219_A.GM14
+
+    Adding Layer      : Assembly Bottom
+
+    Adding Layer      : Border & Title
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Fabrication Notes
+      File : B219_A.GM3
+
+    Adding Layer      : Fabrication Notes
+
+    Adding Layer      : Border & Title
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Ref Des Bottom
+      File : B219_A.GM12
+
+    Adding Layer      : Ref Des Bottom
+
+    Adding Layer      : Border & Title
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Ref Des Top
+      File : B219_A.GM11
+
+    Adding Layer      : Ref Des Top
+
+    Adding Layer      : Border & Title
+
+
+Used DCodes :
+    D45
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Rigid Outline
+      File : B219_A.GM4
+
+    Adding Layer      : Rigid Outline
+
+    Adding Layer      : Border & Title
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Route Tool Path
+      File : B219_A.GM1
+
+    Adding Layer      : Route Tool Path
+
+    Adding Layer      : Border & Title
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : B219_A.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+    Adding Layer      : Border & Title
+
+
+Used DCodes :
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Assembly Top
+      File : B219_A.GM13
+
+    Adding Layer      : Assembly Top
+
+    Adding Layer      : Border & Title
+
+
+Used DCodes :
+    D45
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Coutryard Bottom
+      File : B219_A.GM16
+
+    Adding Layer      : Coutryard Bottom
+
+    Adding Layer      : Border & Title
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : B219_A.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Border & Title
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Copper
+      File : B219_A.GTL
+
+    Adding Layer      : Top Copper
+
+    Adding Layer      : Border & Title
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D14
+    D15
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : B219_A.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Border & Title
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Mask
+      File : B219_A.GBS
+
+    Adding Layer      : Bottom Mask
+
+    Adding Layer      : Border & Title
+
+    Adding Layer      : Bottom Copper
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D32
+    D33
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Top Mask
+      File : B219_A.GTS
+
+    Adding Layer      : Top Mask
+
+    Adding Layer      : Border & Title
+
+    Adding Layer      : Top Copper
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : B219_A.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Border & Title
+
+    Adding Layer      : Top Copper
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : B219_A.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Border & Title
+
+    Adding Layer      : Bottom Copper
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Copper
+      File : B219_A.GBL
+
+    Adding Layer      : Bottom Copper
+
+    Adding Layer      : Border & Title
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Signal Layer 2
+      File : B219_A.G2
+
+    Adding Layer      : Signal Layer 2
+
+    Adding Layer      : Border & Title
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D37
+    D39
+    D41
+    D42
+    D43
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Signal Layer 1
+      File : B219_A.G1
+
+    Adding Layer      : Signal Layer 1
+
+    Adding Layer      : Border & Title
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D39
+    D41
+    D42
+    D43
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : B219_A.GD1
+
+    Adding Layer      : Border & Title
+
+    Adding Drill Pair : Top Copper-Bottom Copper
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D46
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : B219_A.GG1
+
+    Adding Layer      : Border & Title
+
+    Adding Drill Pair : Top Copper-Bottom Copper
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D46
+*************************************************************
+

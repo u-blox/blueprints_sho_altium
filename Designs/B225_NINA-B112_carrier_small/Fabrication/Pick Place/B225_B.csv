@@ -1,0 +1,41 @@
+Altium Designer Pick and Place Locations
+C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B225_NINA-B112_carrier_small\Rev B\.\Fabrication\Pick Place\B225_B.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       02/09/21
+Time:       14:23
+Revision:   2763
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"D3","115-00011","TopLayer","4-PLCC","11.9000","14.0000","0","LED, RGB Diffused SMT, PLCC4 4 Pin"
+"U1","NINA-B112-OPENCPU","TopLayer","NINA_LGA42R_1400X1000X380_PIFA","5.1900","31.1750","90","u-blox NINA-B112 Bluetooth 5 LE module"
+"R17","180-00098220R","TopLayer","RES_0402_HD","9.0000","19.1000","90","Resistor, 220ohm, 5%, 1/16W, 0402."
+"R16","180-00098220R","TopLayer","RES_0402_HD","13.7000","19.1000","90","Resistor, 220ohm, 5%, 1/16W, 0402."
+"R15","180-00098220R","TopLayer","RES_0402_HD","8.0000","19.1000","90","Resistor, 220ohm, 5%, 1/16W, 0402."
+"R11","180-00098220R","TopLayer","RES_0402_HD","15.5000","19.1000","270","Resistor, 220ohm, 5%, 1/16W, 0402."
+"R10","180-00098220R","TopLayer","RES_0402_HD","7.0066","19.1000","270","Resistor, 220ohm, 5%, 1/16W, 0402."
+"R9","180-00098220R","TopLayer","RES_0402_HD","17.5000","19.1000","270","Resistor, 220ohm, 5%, 1/16W, 0402."
+"R8","180-00098220R","TopLayer","RES_0402_HD","2.9868","19.1000","270","Resistor, 220ohm, 5%, 1/16W, 0402."
+"R7","180-00098220R","TopLayer","RES_0402_HD","3.9878","19.1008","270","Resistor, 220ohm, 5%, 1/16W, 0402."
+"R6","180-00098220R","TopLayer","RES_0402_HD","1.9868","19.1000","270","Resistor, 220ohm, 5%, 1/16W, 0402."
+"R5","180-00098220R","TopLayer","RES_0402_HD","5.0066","19.1000","270","Resistor, 220ohm, 5%, 1/16W, 0402."
+"R4","180-00098220R","TopLayer","RES_0402_HD","6.0066","19.1000","270","Resistor, 220ohm, 5%, 1/16W, 0402."
+"L2","LQW18AN56NJ00D","TopLayer","INDC1608X100X30LL20T10","12.4000","18.8000","90","Chip Inductor, 56 nH, +/-5%, 390 mA, -55 to 125 degC, 0603 (1608 Metric), RoHS, Tape and Reel"
+"L1","LQW18AN56NJ00D","TopLayer","INDC1608X100X30LL20T10","20.9000","18.8000","270","Chip Inductor, 56 nH, +/-5%, 390 mA, -55 to 125 degC, 0603 (1608 Metric), RoHS, Tape and Reel"
+"P2","TC2030-IDC-NLDNP","TopLayer","TC2030-IDC-NL","11.0000","10.0000","0","CON PADS FOR CBL PLUG-OF-NAILS 6-PIN NO LEGS"
+"P1","61300811021","TopLayer","61300811021","11.0000","4.2200","0","THT Angled Pin Header WR-PHD, Pitch 2.54 mm, Single Row, 8 pins"
+"MH2","MH_M1.5DNP","TopLayer","MH_M1.5","18.5000","10.0000","0","1.5M screw mounting hole, plated"
+"MH1","MH_M1.5DNP","TopLayer","MH_M1.5","3.5000","10.0000","0","1.5M screw mounting hole, plated"
+"SW2","135-00007","TopLayer","B3U-1000P","18.5000","15.0000","0","Button, Momentary SPST-NO, 0.05A, 12V, 3mm x 2.5mm"
+"SW1","135-00007","TopLayer","B3U-1000P","3.5000","15.0000","180","Button, Momentary SPST-NO, 0.05A, 12V, 3mm x 2.5mm"
+"R3","180-00098220R","TopLayer","RES_0402_HD","19.4000","19.1000","270","Resistor, 220ohm, 5%, 1/16W, 0402."
+"R2","180-00098220R","TopLayer","RES_0402_HD","18.5000","19.1000","270","Resistor, 220ohm, 5%, 1/16W, 0402."
+"R1","180-00031499R","TopLayer","RES_0402_HD","16.5000","19.1000","270","Resistor, 499ohm, 1%, 1/16W, 0402"
+"D2","110-00019","TopLayer","SOD-923","17.0000","17.0000","0","Diode, ESD9B, 3.3V, ST5G, SOD-923"
+"D1","110-00019","TopLayer","SOD-923","2.5264","16.9926","180","Diode, ESD9B, 3.3V, ST5G, SOD-923"
+"C2","Capacitor 0.1 uF +/- 5% 16 V 0402","TopLayer","CAPC1005X56X25ML10T15","11.9900","34.4000","0","Chip Capacitor, 0.1 uF, +/- 5%, 16 V, 0402 (1005 Metric)"
+"C1","Capacitor 0.1 uF +/- 5% 16 V 0402","TopLayer","CAPC1005X56X25ML10T15","11.9900","35.6000","180","Chip Capacitor, 0.1 uF, +/- 5%, 16 V, 0402 (1005 Metric)"

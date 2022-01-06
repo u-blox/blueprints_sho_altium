@@ -1,0 +1,1080 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 0 11.00000086 14.49999894 180 N D3 115-00011 ;0=1,1=1.0000
+PRP Arena_Link 'https://app.bom.com/a/UCV39GZGZIHY581D?v=spec.summary'
+PRP Body_Size '2.0mm x 2.0mm'
+PRP Color 'RGB'
+PRP Component_Mounting_Type 'SMT'
+PRP Current '20mA Red, 10mA Green, 10mA, Blue'
+PRP Height '1mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'Cree, Inc.'
+PRP Manufacturer_P/N 'CLMVB-FKA-CFHEHLCBB7a363'
+PRP MFG_Package 'PLCC4'
+PRP Mounting_Type 'Vertical'
+PRP Number_of_Circuits '3'
+PRP Package_Type 'Custom'
+PRP Part_Name 'LED RGB SMT 2mm x 2mm'
+PRP Part_Number '115-00011'
+PRP Part_Type 'LED'
+PRP Pins '4'
+PRP Revision '0A'
+PRP Supplier_1 'Mouser'
+PRP Supplier_Part_Number_1 '941-CLMVBFKACFHEHLCB'
+PRP Use_in_new_designs 'Yes'
+PRP Vf '2V Red, 3V Green, 3V Blue'
+PRP Voltage '5V'
+TOP 0 10.24999982 15.04999784 180 N 34 2 D3-1
+TOP 1 11.7500019 15.04999784 180 N 26 1 D3-2
+TOP 2 11.7500019 13.95000004 180 N 27 1 D3-3
+TOP 3 10.24999982 13.95000004 180 N 28 1 D3-4
+#
+# CMP 1
+CMP 10 13.57499952 29.67500034 180 N X1 100-00005 ;0=1,1=0.9000
+PRP Arena_Link 'https://app.bom.com/a/L3MU07Q7Q98O5PC8?v=spec.summary'
+PRP Body_Size '3.2mm x 1.5mm'
+PRP CL '7pF'
+PRP Component_Mounting_Type 'SMT'
+PRP Frequency '32.768kHz'
+PRP Frequency_Tolerance '20ppm'
+PRP Height '0.9mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'Epson'
+PRP Manufacturer_2 'AVX Corporation'
+PRP Manufacturer_P/N 'FC-135 32.7680KA-AG3'
+PRP Manufacturer_P/N_2 'ST3215SB32768C0HPWBB'
+PRP MFG_Package '2-SMD'
+PRP Part_Name 'XTAL 32.768kHz 7pF 20ppm 3215'
+PRP Part_Number '100-00005'
+PRP Part_Type 'Crystal/Oscillator'
+PRP Pins '2'
+PRP Revision '0C'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'SER4086CT-ND'
+PRP Supplier_Part_Number_2 '1253-1113-1-ND'
+PRP Use_in_new_designs 'Yes'
+TOP 0 14.87499946 29.67500034 180 N 32 1 X1-1
+TOP 1 12.27499958 29.67500034 180 N 31 1 X1-2
+#
+# CMP 2
+CMP 7 3.99999962 20.00000064 270 N R3 UBXH18-0008033220R ;0=1,1=0.4000
+PRP Automotive 'None'
+PRP Critical 'None'
+PRP Editor 'roland.rust'
+PRP Env 'ROHS'
+PRP Manufacturer 'YAGEO'
+PRP Manufacturer_2 'None'
+PRP Manufacturer_3 'None'
+PRP Manufacturer_P/N '2322_705_87221_L'
+PRP Manufacturer_P/N_2 'None'
+PRP Manufacturer_P/N_3 'None'
+PRP Max_Current 'None'
+PRP Max_Operating_Temp 'None'
+PRP Max_Power '100mW'
+PRP Max_Voltage 'None'
+PRP Mfg_P/N_Datasheet 'None'
+PRP Mfg_P/N_Datasheet_2 'None'
+PRP Mfg_P/N_Datasheet_3 'None'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'None'
+PRP Mfg_P/N_Released_3 'None'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Split_2 'None'
+PRP Mfg_P/N_Split_3 'None'
+PRP Mfg_P/N_Status 'NRND'
+PRP Mfg_P/N_Status_2 'None'
+PRP Mfg_P/N_Status_3 'None'
+PRP Min_Operating_Temp 'None'
+PRP Part_Number 'UBXH18-0008033'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2009-04-24 14:36:39'
+PRP Released_by 'roland.rust'
+PRP Single_Source 'None'
+PRP Size '0x0y'
+PRP Tolerance '5%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6914'
+PRP Value '220R'
+TOP 0 3.99999962 19.60000144 180 N 23 0 R3-1
+TOP 1 3.99999962 20.39999984 180 N 18 0 R3-2
+#
+# CMP 3
+CMP 7 2.40000028 20.00000064 270 N R2 UBXH18-0008033220R ;0=1,1=0.4000
+PRP Automotive 'None'
+PRP Critical 'None'
+PRP Editor 'roland.rust'
+PRP Env 'ROHS'
+PRP Manufacturer 'YAGEO'
+PRP Manufacturer_2 'None'
+PRP Manufacturer_3 'None'
+PRP Manufacturer_P/N '2322_705_87221_L'
+PRP Manufacturer_P/N_2 'None'
+PRP Manufacturer_P/N_3 'None'
+PRP Max_Current 'None'
+PRP Max_Operating_Temp 'None'
+PRP Max_Power '100mW'
+PRP Max_Voltage 'None'
+PRP Mfg_P/N_Datasheet 'None'
+PRP Mfg_P/N_Datasheet_2 'None'
+PRP Mfg_P/N_Datasheet_3 'None'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'None'
+PRP Mfg_P/N_Released_3 'None'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Split_2 'None'
+PRP Mfg_P/N_Split_3 'None'
+PRP Mfg_P/N_Status 'NRND'
+PRP Mfg_P/N_Status_2 'None'
+PRP Mfg_P/N_Status_3 'None'
+PRP Min_Operating_Temp 'None'
+PRP Part_Number 'UBXH18-0008033'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2009-04-24 14:36:39'
+PRP Released_by 'roland.rust'
+PRP Single_Source 'None'
+PRP Size '0x0y'
+PRP Tolerance '5%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6914'
+PRP Value '220R'
+TOP 0 2.40000028 19.60000144 180 N 25 0 R2-1
+TOP 1 2.40000028 20.39999984 180 N 19 0 R2-2
+#
+# CMP 4
+CMP 7 3.20000122 20.00000064 270 N R1 UBXH18-0008033220R ;0=1,1=0.4000
+PRP Automotive 'None'
+PRP Critical 'None'
+PRP Editor 'roland.rust'
+PRP Env 'ROHS'
+PRP Manufacturer 'YAGEO'
+PRP Manufacturer_2 'None'
+PRP Manufacturer_3 'None'
+PRP Manufacturer_P/N '2322_705_87221_L'
+PRP Manufacturer_P/N_2 'None'
+PRP Manufacturer_P/N_3 'None'
+PRP Max_Current 'None'
+PRP Max_Operating_Temp 'None'
+PRP Max_Power '100mW'
+PRP Max_Voltage 'None'
+PRP Mfg_P/N_Datasheet 'None'
+PRP Mfg_P/N_Datasheet_2 'None'
+PRP Mfg_P/N_Datasheet_3 'None'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'None'
+PRP Mfg_P/N_Released_3 'None'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Split_2 'None'
+PRP Mfg_P/N_Split_3 'None'
+PRP Mfg_P/N_Status 'NRND'
+PRP Mfg_P/N_Status_2 'None'
+PRP Mfg_P/N_Status_3 'None'
+PRP Min_Operating_Temp 'None'
+PRP Part_Number 'UBXH18-0008033'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2009-04-24 14:36:39'
+PRP Released_by 'roland.rust'
+PRP Single_Source 'None'
+PRP Size '0x0y'
+PRP Tolerance '5%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6914'
+PRP Value '220R'
+TOP 0 3.20000122 19.60000144 180 N 24 0 R1-1
+TOP 1 3.20000122 20.39999984 180 N 20 0 R1-2
+#
+# CMP 5
+CMP 4 15.79999888 32.22500032 0 N C3 UBXH01-2021002100N ;0=1,1=0.6000
+PRP Automotive 'None'
+PRP Critical 'None'
+PRP Editor 'roland.rust'
+PRP Env 'GREEN'
+PRP Manufacturer 'Samsung Electro-Mechanics'
+PRP Manufacturer_2 'None'
+PRP Manufacturer_3 'None'
+PRP Manufacturer_P/N 'CL05A104KP5NNN'
+PRP Manufacturer_P/N_2 'None'
+PRP Manufacturer_P/N_3 'None'
+PRP Max_Current 'None'
+PRP Max_Operating_Temp 'None'
+PRP Max_Power 'None'
+PRP Max_Voltage '10.0V'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=28113'
+PRP Mfg_P/N_Datasheet_2 'None'
+PRP Mfg_P/N_Datasheet_3 'None'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'None'
+PRP Mfg_P/N_Released_3 'None'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Split_2 'None'
+PRP Mfg_P/N_Split_3 'None'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'None'
+PRP Mfg_P/N_Status_3 'None'
+PRP Min_Operating_Temp 'None'
+PRP Part_Number 'UBXH01-2021002'
+PRP Part_Type 'Capacitor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'C'
+PRP Release_Data '2005-07-22 13:59:44'
+PRP Released_by 'roland.rust'
+PRP Single_Source 'None'
+PRP Size '0x0y'
+PRP Tolerance '10%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=5759'
+PRP Value '100N'
+TOP 0 15.34999978 32.22500032 270 N 22 2 C3-1
+TOP 1 16.24999798 32.22500032 270 N 21 9 C3-2
+#
+# CMP 6
+CMP 3 11.00000086 35.50000266 0 N U1 =Value ;0=1,1=1.5000
+PRP Body_Size '8.65mm x 6.4mm'
+PRP DNP ''
+PRP Height '1.5mm'
+PRP Internal_Antenna 'CHIP'
+PRP Manufacturer 'u-blox'
+PRP Manufacturer_P/N 'BMD-350-A-R'
+PRP Part_Number 'BMD-350'
+PRP Protocol 'BT 5 LE, 2.4GHz Proprietary'
+TOP 0 8.22500006 39.37500126 90 N 21 15 U1-1
+TOP 1 8.22500006 38.15000244 90 N 21 14 U1-2
+TOP 2 8.22500006 36.92500108 90 N 21 13 U1-3
+TOP 3 8.8750013 36.50000066 90 N 19 1 U1-4
+TOP 4 8.22500006 36.07500278 90 N 20 1 U1-5
+TOP 5 8.8750013 35.65000236 90 N 0 3 U1-6
+TOP 6 8.22500006 35.22500194 90 N 18 1 U1-7
+TOP 7 8.8750013 34.80000152 90 N 16 1 U1-8
+TOP 8 8.22500006 34.3750011 90 N 0 6 U1-9
+TOP 9 8.8750013 33.95000068 90 N 15 1 U1-10
+TOP 10 8.22500006 33.5250028 90 N 0 5 U1-11
+TOP 11 8.8750013 33.10000238 90 N 13 1 U1-12
+TOP 12 8.22500006 32.67500196 90 N 0 4 U1-13
+TOP 13 8.8750013 32.25000154 90 N 14 1 U1-14
+TOP 14 8.22500006 31.6000003 90 N 21 12 U1-15
+TOP 15 9.30000172 31.6000003 90 N 0 7 U1-16
+TOP 16 9.72500214 32.25000154 90 N 0 8 U1-17
+TOP 17 10.15000256 31.6000003 90 N 0 11 U1-18
+TOP 18 10.57500044 32.25000154 90 N 11 1 U1-19
+TOP 19 11.00000086 31.6000003 90 N 10 1 U1-20
+TOP 20 11.42500128 32.25000154 90 N 8 1 U1-21
+TOP 21 11.8500017 31.6000003 90 N 7 1 U1-22
+TOP 22 12.27500212 32.25000154 90 N 31 2 U1-23
+TOP 23 12.70000254 31.6000003 90 N 32 2 U1-24
+TOP 24 13.12500042 32.25000154 90 N 22 3 U1-25
+TOP 25 13.77500166 31.6000003 90 N 21 16 U1-26
+TOP 26 13.77500166 32.67500196 90 N 12 1 U1-27
+TOP 27 13.12500042 33.10000238 90 N 0 12 U1-28
+TOP 28 13.77500166 33.5250028 90 N 0 9 U1-29
+TOP 29 13.12500042 33.95000068 90 N 0 10 U1-30
+TOP 30 13.77500166 34.3750011 90 N 0 13 U1-31
+TOP 31 13.12500042 34.80000152 90 N 0 18 U1-32
+TOP 32 13.77500166 35.22500194 90 N 0 14 U1-33
+TOP 33 13.12500042 35.65000236 90 N 0 19 U1-34
+TOP 34 13.77500166 36.07500278 90 N 0 15 U1-35
+TOP 35 13.12500042 36.50000066 90 N 0 20 U1-36
+TOP 36 13.77500166 36.92500108 90 N 21 17 U1-37
+TOP 37 13.77500166 38.15000244 90 N 21 20 U1-38
+TOP 38 13.77500166 39.37500126 90 N 21 18 U1-39
+TOP 39 9.72500214 36.50000066 90 N 21 21 U1-40
+TOP 40 9.72500214 34.80000152 90 N 0 16 U1-41
+TOP 41 9.72500214 33.10000238 90 N 17 1 U1-42
+TOP 42 11.00000086 33.10000238 90 N 21 19 U1-43
+TOP 43 12.27500212 33.10000238 90 N 9 1 U1-44
+TOP 44 12.27500212 34.80000152 90 N 0 17 U1-45
+TOP 45 12.27500212 36.50000066 90 N 21 11 U1-46
+TOP 46 11.00000086 36.50000066 90 N 21 10 U1-47
+#
+# CMP 7
+CMP 7 12.9999994 20.00000064 90 N R14 UBXH18-0008033220R ;0=1,1=0.4000
+PRP Automotive 'None'
+PRP Critical 'None'
+PRP Editor 'roland.rust'
+PRP Env 'ROHS'
+PRP Manufacturer 'YAGEO'
+PRP Manufacturer_2 'None'
+PRP Manufacturer_3 'None'
+PRP Manufacturer_P/N '2322_705_87221_L'
+PRP Manufacturer_P/N_2 'None'
+PRP Manufacturer_P/N_3 'None'
+PRP Max_Current 'None'
+PRP Max_Operating_Temp 'None'
+PRP Max_Power '100mW'
+PRP Max_Voltage 'None'
+PRP Mfg_P/N_Datasheet 'None'
+PRP Mfg_P/N_Datasheet_2 'None'
+PRP Mfg_P/N_Datasheet_3 'None'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'None'
+PRP Mfg_P/N_Released_3 'None'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Split_2 'None'
+PRP Mfg_P/N_Split_3 'None'
+PRP Mfg_P/N_Status 'NRND'
+PRP Mfg_P/N_Status_2 'None'
+PRP Mfg_P/N_Status_3 'None'
+PRP Min_Operating_Temp 'None'
+PRP Part_Number 'UBXH18-0008033'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2009-04-24 14:36:39'
+PRP Released_by 'roland.rust'
+PRP Single_Source 'None'
+PRP Size '0x0y'
+PRP Tolerance '5%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6914'
+PRP Value '220R'
+TOP 0 12.9999994 20.39999984 0 N 7 0 R14-1
+TOP 1 12.9999994 19.60000144 0 N 6 1 R14-2
+#
+# CMP 8
+CMP 7 12.19999846 19.9999981 90 N R13 UBXH18-0008033220R ;0=1,1=0.4000
+PRP Automotive 'None'
+PRP Critical 'None'
+PRP Editor 'roland.rust'
+PRP Env 'ROHS'
+PRP Manufacturer 'YAGEO'
+PRP Manufacturer_2 'None'
+PRP Manufacturer_3 'None'
+PRP Manufacturer_P/N '2322_705_87221_L'
+PRP Manufacturer_P/N_2 'None'
+PRP Manufacturer_P/N_3 'None'
+PRP Max_Current 'None'
+PRP Max_Operating_Temp 'None'
+PRP Max_Power '100mW'
+PRP Max_Voltage 'None'
+PRP Mfg_P/N_Datasheet 'None'
+PRP Mfg_P/N_Datasheet_2 'None'
+PRP Mfg_P/N_Datasheet_3 'None'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'None'
+PRP Mfg_P/N_Released_3 'None'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Split_2 'None'
+PRP Mfg_P/N_Split_3 'None'
+PRP Mfg_P/N_Status 'NRND'
+PRP Mfg_P/N_Status_2 'None'
+PRP Mfg_P/N_Status_3 'None'
+PRP Min_Operating_Temp 'None'
+PRP Part_Number 'UBXH18-0008033'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2009-04-24 14:36:39'
+PRP Released_by 'roland.rust'
+PRP Single_Source 'None'
+PRP Size '0x0y'
+PRP Tolerance '5%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6914'
+PRP Value '220R'
+TOP 0 12.19999846 20.3999973 0 N 8 0 R13-1
+TOP 1 12.19999846 19.5999989 0 N 3 1 R13-2
+#
+# CMP 9
+CMP 7 15.59999928 20.00000064 90 N R12 UBXH18-0008033220R ;0=1,1=0.4000
+PRP Automotive 'None'
+PRP Critical 'None'
+PRP Editor 'roland.rust'
+PRP Env 'ROHS'
+PRP Manufacturer 'YAGEO'
+PRP Manufacturer_2 'None'
+PRP Manufacturer_3 'None'
+PRP Manufacturer_P/N '2322_705_87221_L'
+PRP Manufacturer_P/N_2 'None'
+PRP Manufacturer_P/N_3 'None'
+PRP Max_Current 'None'
+PRP Max_Operating_Temp 'None'
+PRP Max_Power '100mW'
+PRP Max_Voltage 'None'
+PRP Mfg_P/N_Datasheet 'None'
+PRP Mfg_P/N_Datasheet_2 'None'
+PRP Mfg_P/N_Datasheet_3 'None'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'None'
+PRP Mfg_P/N_Released_3 'None'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Split_2 'None'
+PRP Mfg_P/N_Split_3 'None'
+PRP Mfg_P/N_Status 'NRND'
+PRP Mfg_P/N_Status_2 'None'
+PRP Mfg_P/N_Status_3 'None'
+PRP Min_Operating_Temp 'None'
+PRP Part_Number 'UBXH18-0008033'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2009-04-24 14:36:39'
+PRP Released_by 'roland.rust'
+PRP Single_Source 'None'
+PRP Size '0x0y'
+PRP Tolerance '5%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6914'
+PRP Value '220R'
+TOP 0 15.59999928 20.39999984 0 N 9 0 R12-1
+TOP 1 15.59999928 19.60000144 0 N 5 1 R12-2
+#
+# CMP 10
+CMP 7 11.39999752 20.00000064 90 N R11 UBXH18-0008033220R ;0=1,1=0.4000
+PRP Automotive 'None'
+PRP Critical 'None'
+PRP Editor 'roland.rust'
+PRP Env 'ROHS'
+PRP Manufacturer 'YAGEO'
+PRP Manufacturer_2 'None'
+PRP Manufacturer_3 'None'
+PRP Manufacturer_P/N '2322_705_87221_L'
+PRP Manufacturer_P/N_2 'None'
+PRP Manufacturer_P/N_3 'None'
+PRP Max_Current 'None'
+PRP Max_Operating_Temp 'None'
+PRP Max_Power '100mW'
+PRP Max_Voltage 'None'
+PRP Mfg_P/N_Datasheet 'None'
+PRP Mfg_P/N_Datasheet_2 'None'
+PRP Mfg_P/N_Datasheet_3 'None'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'None'
+PRP Mfg_P/N_Released_3 'None'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Split_2 'None'
+PRP Mfg_P/N_Split_3 'None'
+PRP Mfg_P/N_Status 'NRND'
+PRP Mfg_P/N_Status_2 'None'
+PRP Mfg_P/N_Status_3 'None'
+PRP Min_Operating_Temp 'None'
+PRP Part_Number 'UBXH18-0008033'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2009-04-24 14:36:39'
+PRP Released_by 'roland.rust'
+PRP Single_Source 'None'
+PRP Size '0x0y'
+PRP Tolerance '5%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6914'
+PRP Value '220R'
+TOP 0 11.39999752 20.39999984 0 N 10 0 R11-1
+TOP 1 11.39999752 19.60000144 0 N 2 1 R11-2
+#
+# CMP 11
+CMP 7 10.59999912 20.00000064 90 N R10 UBXH18-0008033220R ;0=1,1=0.4000
+PRP Automotive 'None'
+PRP Critical 'None'
+PRP Editor 'roland.rust'
+PRP Env 'ROHS'
+PRP Manufacturer 'YAGEO'
+PRP Manufacturer_2 'None'
+PRP Manufacturer_3 'None'
+PRP Manufacturer_P/N '2322_705_87221_L'
+PRP Manufacturer_P/N_2 'None'
+PRP Manufacturer_P/N_3 'None'
+PRP Max_Current 'None'
+PRP Max_Operating_Temp 'None'
+PRP Max_Power '100mW'
+PRP Max_Voltage 'None'
+PRP Mfg_P/N_Datasheet 'None'
+PRP Mfg_P/N_Datasheet_2 'None'
+PRP Mfg_P/N_Datasheet_3 'None'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'None'
+PRP Mfg_P/N_Released_3 'None'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Split_2 'None'
+PRP Mfg_P/N_Split_3 'None'
+PRP Mfg_P/N_Status 'NRND'
+PRP Mfg_P/N_Status_2 'None'
+PRP Mfg_P/N_Status_3 'None'
+PRP Min_Operating_Temp 'None'
+PRP Part_Number 'UBXH18-0008033'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2009-04-24 14:36:39'
+PRP Released_by 'roland.rust'
+PRP Single_Source 'None'
+PRP Size '0x0y'
+PRP Tolerance '5%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6914'
+PRP Value '220R'
+TOP 0 10.59999912 20.39999984 0 N 11 0 R10-1
+TOP 1 10.59999912 19.60000144 0 N 1 1 R10-2
+#
+# CMP 12
+CMP 7 16.40000022 20.00000064 90 N R9 UBXH18-0008033220R ;0=1,1=0.4000
+PRP Automotive 'None'
+PRP Critical 'None'
+PRP Editor 'roland.rust'
+PRP Env 'ROHS'
+PRP Manufacturer 'YAGEO'
+PRP Manufacturer_2 'None'
+PRP Manufacturer_3 'None'
+PRP Manufacturer_P/N '2322_705_87221_L'
+PRP Manufacturer_P/N_2 'None'
+PRP Manufacturer_P/N_3 'None'
+PRP Max_Current 'None'
+PRP Max_Operating_Temp 'None'
+PRP Max_Power '100mW'
+PRP Max_Voltage 'None'
+PRP Mfg_P/N_Datasheet 'None'
+PRP Mfg_P/N_Datasheet_2 'None'
+PRP Mfg_P/N_Datasheet_3 'None'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'None'
+PRP Mfg_P/N_Released_3 'None'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Split_2 'None'
+PRP Mfg_P/N_Split_3 'None'
+PRP Mfg_P/N_Status 'NRND'
+PRP Mfg_P/N_Status_2 'None'
+PRP Mfg_P/N_Status_3 'None'
+PRP Min_Operating_Temp 'None'
+PRP Part_Number 'UBXH18-0008033'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2009-04-24 14:36:39'
+PRP Released_by 'roland.rust'
+PRP Single_Source 'None'
+PRP Size '0x0y'
+PRP Tolerance '5%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6914'
+PRP Value '220R'
+TOP 0 16.40000022 20.39999984 0 N 12 0 R9-1
+TOP 1 16.40000022 19.60000144 0 N 4 1 R9-2
+#
+# CMP 13
+CMP 7 6.3999999 20.00000064 270 N R8 UBXH18-0008033220R ;0=1,1=0.4000
+PRP Automotive 'None'
+PRP Critical 'None'
+PRP Editor 'roland.rust'
+PRP Env 'ROHS'
+PRP Manufacturer 'YAGEO'
+PRP Manufacturer_2 'None'
+PRP Manufacturer_3 'None'
+PRP Manufacturer_P/N '2322_705_87221_L'
+PRP Manufacturer_P/N_2 'None'
+PRP Manufacturer_P/N_3 'None'
+PRP Max_Current 'None'
+PRP Max_Operating_Temp 'None'
+PRP Max_Power '100mW'
+PRP Max_Voltage 'None'
+PRP Mfg_P/N_Datasheet 'None'
+PRP Mfg_P/N_Datasheet_2 'None'
+PRP Mfg_P/N_Datasheet_3 'None'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'None'
+PRP Mfg_P/N_Released_3 'None'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Split_2 'None'
+PRP Mfg_P/N_Split_3 'None'
+PRP Mfg_P/N_Status 'NRND'
+PRP Mfg_P/N_Status_2 'None'
+PRP Mfg_P/N_Status_3 'None'
+PRP Min_Operating_Temp 'None'
+PRP Part_Number 'UBXH18-0008033'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2009-04-24 14:36:39'
+PRP Released_by 'roland.rust'
+PRP Single_Source 'None'
+PRP Size '0x0y'
+PRP Tolerance '5%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6914'
+PRP Value '220R'
+TOP 0 6.3999999 19.60000144 180 N 29 0 R8-1
+TOP 1 6.3999999 20.39999984 180 N 13 0 R8-2
+#
+# CMP 14
+CMP 7 8.99999978 20.00000064 270 N R7 UBXH18-0008033220R ;0=1,1=0.4000
+PRP Automotive 'None'
+PRP Critical 'None'
+PRP Editor 'roland.rust'
+PRP Env 'ROHS'
+PRP Manufacturer 'YAGEO'
+PRP Manufacturer_2 'None'
+PRP Manufacturer_3 'None'
+PRP Manufacturer_P/N '2322_705_87221_L'
+PRP Manufacturer_P/N_2 'None'
+PRP Manufacturer_P/N_3 'None'
+PRP Max_Current 'None'
+PRP Max_Operating_Temp 'None'
+PRP Max_Power '100mW'
+PRP Max_Voltage 'None'
+PRP Mfg_P/N_Datasheet 'None'
+PRP Mfg_P/N_Datasheet_2 'None'
+PRP Mfg_P/N_Datasheet_3 'None'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'None'
+PRP Mfg_P/N_Released_3 'None'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Split_2 'None'
+PRP Mfg_P/N_Split_3 'None'
+PRP Mfg_P/N_Status 'NRND'
+PRP Mfg_P/N_Status_2 'None'
+PRP Mfg_P/N_Status_3 'None'
+PRP Min_Operating_Temp 'None'
+PRP Part_Number 'UBXH18-0008033'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2009-04-24 14:36:39'
+PRP Released_by 'roland.rust'
+PRP Single_Source 'None'
+PRP Size '0x0y'
+PRP Tolerance '5%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6914'
+PRP Value '220R'
+TOP 0 8.99999978 19.60000144 180 N 30 1 R7-1
+TOP 1 8.99999978 20.39999984 180 N 14 0 R7-2
+#
+# CMP 15
+CMP 5 7.69999984 20.00000064 270 N L2 LQW18AN22NJ10D ;0=1,1=1.0000
+PRP Category 'Inductors,Coils,Chokes'
+PRP Current_Rating '640mA'
+PRP Datasheet_URL 'http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/L0075S0080LQW18A_10.pdf'
+PRP Datasheet_Version '11/2011'
+PRP DC_Resistance_(DCR) '99mOhmMax'
+PRP Family 'FixedInductors'
+PRP Frequency_-_Self_Resonant '3.2GHz'
+PRP Frequency_-_Test '100MHz'
+PRP Height_-_Seated_(Max) '0.039_(1.00mm)'
+PRP Inductance '22nH'
+PRP Manufacturer 'Murata'
+PRP Manufacturer_URL 'http://www.murata.com/'
+PRP Material_-_Core 'Non-Magnetic'
+PRP Mounting_Technology 'SurfaceMount'
+PRP Mounting_Type 'SurfaceMount'
+PRP Online_Catalog 'LQWSeries'
+PRP Operating_Temperature '-55°C~125°C'
+PRP Other_Names '490-6876-1'
+PRP Package_/_Case '0603(1608Metric)'
+PRP Package_Description '2-Pin Surface Mount Device, Body 1.6 x 0.8 mm'
+PRP Package_Reference '0603'
+PRP Packaging 'CutTape(CT)'
+PRP Product_Training_Modules 'InductorProductsChipRFInductors'
+PRP Q_@_Freq '42@250MHz'
+PRP Series 'LQW18A_10'
+PRP Shielding 'Unshielded'
+PRP Size_/_Dimension '0.063_Lx0.031_W(1.60mmx0.80mm)'
+PRP Standard_Package '1'
+PRP Tolerance '±5%'
+PRP Type 'Wirewound'
+TOP 0 7.69999984 19.31500328 180 N 33 5 L2-1
+TOP 1 7.69999984 20.68500308 180 N 21 22 L2-2
+#
+# CMP 16
+CMP 5 14.29999934 20.00000064 270 N L1 LQW18AN22NJ10D ;0=1,1=1.0000
+PRP Category 'Inductors,Coils,Chokes'
+PRP Current_Rating '640mA'
+PRP Datasheet_URL 'http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/L0075S0080LQW18A_10.pdf'
+PRP Datasheet_Version '11/2011'
+PRP DC_Resistance_(DCR) '99mOhmMax'
+PRP Family 'FixedInductors'
+PRP Frequency_-_Self_Resonant '3.2GHz'
+PRP Frequency_-_Test '100MHz'
+PRP Height_-_Seated_(Max) '0.039_(1.00mm)'
+PRP Inductance '22nH'
+PRP Manufacturer 'Murata'
+PRP Manufacturer_URL 'http://www.murata.com/'
+PRP Material_-_Core 'Non-Magnetic'
+PRP Mounting_Technology 'SurfaceMount'
+PRP Mounting_Type 'SurfaceMount'
+PRP Online_Catalog 'LQWSeries'
+PRP Operating_Temperature '-55°C~125°C'
+PRP Other_Names '490-6876-1'
+PRP Package_/_Case '0603(1608Metric)'
+PRP Package_Description '2-Pin Surface Mount Device, Body 1.6 x 0.8 mm'
+PRP Package_Reference '0603'
+PRP Packaging 'CutTape(CT)'
+PRP Product_Training_Modules 'InductorProductsChipRFInductors'
+PRP Q_@_Freq '42@250MHz'
+PRP Series 'LQW18A_10'
+PRP Shielding 'Unshielded'
+PRP Size_/_Dimension '0.063_Lx0.031_W(1.60mmx0.80mm)'
+PRP Standard_Package '1'
+PRP Tolerance '±5%'
+PRP Type 'Wirewound'
+TOP 0 14.29999934 19.31500328 180 N 34 1 L1-1
+TOP 1 14.29999934 20.68500308 180 N 22 1 L1-2
+#
+# CMP 17
+CMP 1 11.00000086 1.44999964 0 N P2 61300811021 ;0=2,1=0.0000
+PRP Contact_Resistance '20mOhm'
+PRP Datasheet_URL 'https://katalog.we-online.de/em/datasheet/6130xx11021.pdf'
+PRP Gender 'Male'
+PRP Manufacturer 'Wurth Electronics'
+PRP Manufacturer_Part_Number '61300811021'
+PRP Manufacturer_URL 'http://www.we-online.de'
+PRP Mounting_Technology 'THT'
+PRP Operating_Temperature '-40to105degC'
+PRP Orientation 'Angled'
+PRP Package_Reference '61300811021'
+PRP Packaging 'Bag'
+PRP Part_Number '61300811021'
+PRP Pin_Number '8'
+PRP Pitch '2.54mm'
+PRP Publisher 'WurthElektronik'
+PRP Rated_Current '3A'
+PRP Row_Number 'Single'
+PRP Withstanding_Voltage '500VAC'
+PRP Working_Voltage '250VAC'
+TOP 0 19.89000086 4.21999918 0 N 34 0 P2-1
+TOP 1 17.35000086 4.21999918 0 N 2 0 P2-2
+TOP 2 14.81000086 4.21999918 0 N 1 0 P2-3
+TOP 3 12.27000086 4.21999918 0 N 6 0 P2-4
+TOP 4 9.73000086 4.21999918 0 N 3 0 P2-5
+TOP 5 7.19000086 4.21999918 0 N 4 0 P2-6
+TOP 6 4.65000086 4.21999918 0 N 5 0 P2-7
+TOP 7 2.11000086 4.21999918 0 N 33 1 P2-8
+#
+# CMP 18
+CMP 6 18.5000011 10.00000032 0 N MH2 MH_M1.5DNP ;0=2,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '7/9/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Features ''
+PRP Height '0mm'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'MH_M1.5'
+PRP Size '3.4mm x 3.4mm'
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+PRP Type 'Mounting Hole'
+TOP 0 18.5000011 10.00000032 0 N 33 2 MH2-1
+#
+# CMP 19
+CMP 6 3.50000062 10.00000032 0 N MH1 MH_M1.5DNP ;0=2,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '7/9/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Features ''
+PRP Height '0mm'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'MH_M1.5'
+PRP Size '3.4mm x 3.4mm'
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+PRP Type 'Mounting Hole'
+TOP 0 3.50000062 10.00000032 0 N 33 0 MH1-1
+#
+# CMP 20
+CMP 9 8.46000086 10.0100003 0 N P1 TC2030-IDC-NLDNP ;0=1,1=0.0000
+PRP Added_By 'Paul B'
+PRP Added_Date '4/22/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer 'TAG Connect'
+PRP Manufacturer_P/N 'TC2030-IDC-NL'
+PRP Part_Number 'TC2030-IDC-NL'
+PRP Size '6.731mm x 12.446mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 13.54000086 8.9940003 0 N 0 0 P1-0
+TOP 1 13.54000086 11.0260003 0 N 0 1 P1-0
+TOP 2 8.46000086 10.0100003 0 N 0 2 P1-0
+TOP 3 9.73000086 9.3750003 0 N 34 3 P1-1
+TOP 4 9.73000086 10.6450003 0 N 24 1 P1-2
+TOP 5 11.00000086 9.3750003 0 N 23 1 P1-3
+TOP 6 11.00000086 10.6450003 0 N 25 1 P1-4
+TOP 7 12.27000086 9.3750003 0 N 33 6 P1-5
+TOP 8 12.27000086 10.6450003 0 N 0 21 P1-6
+#
+# CMP 21
+CMP 2 18.5000011 15.00000048 180 N SW2 135-00007 ;0=1,1=1.2000
+PRP Arena_Link 'https://app.bom.com/a/TBU28FYFYHGV5FQ0?v=spec.summary'
+PRP Body_Size '3mm x 2.5mm'
+PRP Component_Mounting_Type 'SMT'
+PRP Current '50mA'
+PRP Height '1.2mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'Omron Electronics Inc-EMC Div'
+PRP Manufacturer_P/N 'B3U-1000P'
+PRP Part_Name 'SWITCH TACTILE SPST-NO 0.05A 12V'
+PRP Part_Number '135-00007'
+PRP Part_Type 'Button'
+PRP Pins '2'
+PRP Revision '0A'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'SW1020CT-ND'
+PRP Switch/Button_Circuit 'SPST'
+PRP Switch/Button_Function 'Off-Mom'
+PRP Use_in_new_designs 'Yes'
+PRP Voltage '12VDC'
+TOP 0 20.20000024 15.00000048 90 N 29 1 SW2-1
+TOP 1 16.80000196 15.00000048 90 N 33 7 SW2-2
+#
+# CMP 22
+CMP 2 3.50000062 15.00000048 0 N SW1 135-00007 ;0=1,1=1.2000
+PRP Arena_Link 'https://app.bom.com/a/TBU28FYFYHGV5FQ0?v=spec.summary'
+PRP Body_Size '3mm x 2.5mm'
+PRP Component_Mounting_Type 'SMT'
+PRP Current '50mA'
+PRP Height '1.2mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'Omron Electronics Inc-EMC Div'
+PRP Manufacturer_P/N 'B3U-1000P'
+PRP Part_Name 'SWITCH TACTILE SPST-NO 0.05A 12V'
+PRP Part_Number '135-00007'
+PRP Part_Type 'Button'
+PRP Pins '2'
+PRP Revision '0A'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'SW1020CT-ND'
+PRP Switch/Button_Circuit 'SPST'
+PRP Switch/Button_Function 'Off-Mom'
+PRP Use_in_new_designs 'Yes'
+PRP Voltage '12VDC'
+TOP 0 1.80000148 15.00000048 270 N 30 2 SW1-1
+TOP 1 5.19999976 15.00000048 270 N 33 4 SW1-2
+#
+# CMP 23
+CMP 7 5.59999896 20.00000064 90 N R6 180-00098220R ;0=1,1=0.4000
+PRP Alternate_Footprint_Ref 'RES 0402'
+PRP Arena_Link 'https://app.bom.com/a/8Q9HNUDUDWVBJC30?v=spec.summary'
+PRP Component_Mounting_Type 'SMT'
+PRP Height '0.4mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_2 'Samsung Electro-Mechanics America, Inc'
+PRP Manufacturer_P/N 'ERJ-2GEJ221X'
+PRP Manufacturer_P/N_2 'RC1005J221CS'
+PRP Part_Name 'RES SMD 220 OHM 5% 1/16W 0402'
+PRP Part_Number '180-00098'
+PRP Part_Type 'Resistor'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0C'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'P220JCT-ND'
+PRP Supplier_Part_Number_2 '1276-4360-1-ND'
+PRP Tolerance '+/- 5%'
+PRP Use_in_new_designs 'Yes'
+PRP Value '220R'
+TOP 0 5.59999896 20.39999984 0 N 15 0 R6-1
+TOP 1 5.59999896 19.60000144 0 N 26 0 R6-2
+#
+# CMP 24
+CMP 7 4.80000056 20.00000064 90 N R5 180-00098220R ;0=1,1=0.4000
+PRP Alternate_Footprint_Ref 'RES 0402'
+PRP Arena_Link 'https://app.bom.com/a/8Q9HNUDUDWVBJC30?v=spec.summary'
+PRP Component_Mounting_Type 'SMT'
+PRP Height '0.4mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_2 'Samsung Electro-Mechanics America, Inc'
+PRP Manufacturer_P/N 'ERJ-2GEJ221X'
+PRP Manufacturer_P/N_2 'RC1005J221CS'
+PRP Part_Name 'RES SMD 220 OHM 5% 1/16W 0402'
+PRP Part_Number '180-00098'
+PRP Part_Type 'Resistor'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0C'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'P220JCT-ND'
+PRP Supplier_Part_Number_2 '1276-4360-1-ND'
+PRP Tolerance '+/- 5%'
+PRP Use_in_new_designs 'Yes'
+PRP Value '220R'
+TOP 0 4.80000056 20.39999984 0 N 16 0 R5-1
+TOP 1 4.80000056 19.60000144 0 N 27 0 R5-2
+#
+# CMP 25
+CMP 7 9.80000072 20.00000064 90 N R4 180-00031499R ;0=1,1=0.4000
+PRP Alternate_Footprint_Ref 'RES 0402'
+PRP Arena_Link 'https://app.bom.com/a/Q8RZ5CVCVEDU1SS5?v=spec.summary'
+PRP Component_Mounting_Type 'SMT'
+PRP Height '0.4mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'Rohm Semiconductor'
+PRP Manufacturer_2 'Samsung Electro-Mechanics America, Inc'
+PRP Manufacturer_P/N 'MCR01MRTF4990'
+PRP Manufacturer_P/N_2 'RC1005F4990CS'
+PRP Part_Name 'RES SMD 499 OHM 1% 1/16W 0402'
+PRP Part_Number '180-00031'
+PRP Part_Type 'Resistor'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0D'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'RHM499CDCT-ND'
+PRP Supplier_Part_Number_2 '1276-3992-1-ND'
+PRP Tolerance '+/- 1%'
+PRP Use_in_new_designs 'Yes'
+PRP Value '499R'
+TOP 0 9.80000072 20.39999984 0 N 17 0 R4-1
+TOP 1 9.80000072 19.60000144 0 N 28 0 R4-2
+#
+# CMP 26
+CMP 8 18.5000011 16.99999902 180 N D2 110-00019 ;0=1,1=1.1000
+PRP Arena_Link 'https://app.bom.com/a/4M5DJQ9Q9SR7DV4H?v=spec.summary'
+PRP Body_Size '0.8mm x 0.6mm'
+PRP Component_Mounting_Type 'SMT'
+PRP Diode_Type 'TVS'
+PRP Height '0.4mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'ON Semiconductor'
+PRP Manufacturer_P/N 'ESD9B3.3ST5G'
+PRP MFG_Package 'SOD-923'
+PRP Package_Type 'SOD'
+PRP Part_Name 'Diode TVS 3.3V SOD-923'
+PRP Part_Number '110-00019'
+PRP Part_Type 'Diode'
+PRP Pins '2'
+PRP Revision '0A'
+PRP Supplier_1 'Arrow'
+PRP Supplier_Part_Number_1 'ESD9B3.3ST5G'
+PRP Use_in_new_designs 'Yes'
+PRP Voltage '3.3V'
+TOP 0 18.92000026 17.00001426 180 N 29 2 D2-1
+TOP 1 18.08000194 17.00001426 180 N 33 8 D2-2
+#
+# CMP 27
+CMP 8 3.50000062 16.99999902 0 N D1 110-00019 ;0=1,1=1.1000
+PRP Arena_Link 'https://app.bom.com/a/4M5DJQ9Q9SR7DV4H?v=spec.summary'
+PRP Body_Size '0.8mm x 0.6mm'
+PRP Component_Mounting_Type 'SMT'
+PRP Diode_Type 'TVS'
+PRP Height '0.4mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'ON Semiconductor'
+PRP Manufacturer_P/N 'ESD9B3.3ST5G'
+PRP MFG_Package 'SOD-923'
+PRP Package_Type 'SOD'
+PRP Part_Name 'Diode TVS 3.3V SOD-923'
+PRP Part_Number '110-00019'
+PRP Part_Type 'Diode'
+PRP Pins '2'
+PRP Revision '0A'
+PRP Supplier_1 'Arrow'
+PRP Supplier_Part_Number_1 'ESD9B3.3ST5G'
+PRP Use_in_new_designs 'Yes'
+PRP Voltage '3.3V'
+TOP 0 3.08000146 16.99998378 0 N 30 0 D1-1
+TOP 1 3.91999978 16.99998378 0 N 33 3 D1-2
+#
+# CMP 28
+CMP 4 12.27499958 27.75000038 90 N C2 UBXH01-000411410P ;0=1,1=0.6000
+PRP Automotive 'None'
+PRP Critical 'None'
+PRP Editor 'martin.frauchiger'
+PRP Env 'ROHS'
+PRP Manufacturer 'Murata Manufacturing Company, Ltd.'
+PRP Manufacturer_2 'None'
+PRP Manufacturer_3 'None'
+PRP Manufacturer_P/N 'GRM1555C1H100CZ01'
+PRP Manufacturer_P/N_2 'None'
+PRP Manufacturer_P/N_3 'None'
+PRP Max_Current 'None'
+PRP Max_Operating_Temp 'None'
+PRP Max_Power 'None'
+PRP Max_Voltage '25.0V'
+PRP Mfg_P/N_Datasheet 'None'
+PRP Mfg_P/N_Datasheet_2 'None'
+PRP Mfg_P/N_Datasheet_3 'None'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'None'
+PRP Mfg_P/N_Released_3 'None'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Split_2 'None'
+PRP Mfg_P/N_Split_3 'None'
+PRP Mfg_P/N_Status 'Obsolete'
+PRP Mfg_P/N_Status_2 'None'
+PRP Mfg_P/N_Status_3 'None'
+PRP Min_Operating_Temp 'None'
+PRP Part_Number 'UBXH01-0004114'
+PRP Part_Type 'Capacitor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'C'
+PRP Release_Data '2005-09-01 15:36:53'
+PRP Released_by 'martin.frauchiger'
+PRP Single_Source 'None'
+PRP Size '0x0y'
+PRP Tolerance '5%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=5225'
+PRP Value '10P'
+TOP 0 12.27499958 28.19999948 0 N 31 0 C2-1
+TOP 1 12.27499958 27.30000128 0 N 21 8 C2-2
+#
+# CMP 29
+CMP 4 14.87499946 27.75000038 90 N C1 UBXH01-000411410P ;0=1,1=0.6000
+PRP Automotive 'None'
+PRP Critical 'None'
+PRP Editor 'martin.frauchiger'
+PRP Env 'ROHS'
+PRP Manufacturer 'Murata Manufacturing Company, Ltd.'
+PRP Manufacturer_2 'None'
+PRP Manufacturer_3 'None'
+PRP Manufacturer_P/N 'GRM1555C1H100CZ01'
+PRP Manufacturer_P/N_2 'None'
+PRP Manufacturer_P/N_3 'None'
+PRP Max_Current 'None'
+PRP Max_Operating_Temp 'None'
+PRP Max_Power 'None'
+PRP Max_Voltage '25.0V'
+PRP Mfg_P/N_Datasheet 'None'
+PRP Mfg_P/N_Datasheet_2 'None'
+PRP Mfg_P/N_Datasheet_3 'None'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'None'
+PRP Mfg_P/N_Released_3 'None'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Split_2 'None'
+PRP Mfg_P/N_Split_3 'None'
+PRP Mfg_P/N_Status 'Obsolete'
+PRP Mfg_P/N_Status_2 'None'
+PRP Mfg_P/N_Status_3 'None'
+PRP Min_Operating_Temp 'None'
+PRP Part_Number 'UBXH01-0004114'
+PRP Part_Type 'Capacitor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'C'
+PRP Release_Data '2005-09-01 15:36:53'
+PRP Released_by 'martin.frauchiger'
+PRP Single_Source 'None'
+PRP Size '0x0y'
+PRP Tolerance '5%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=5225'
+PRP Value '10P'
+TOP 0 14.87499946 28.19999948 0 N 32 0 C1-1
+TOP 1 14.87499946 27.30000128 0 N 21 7 C1-2
+#

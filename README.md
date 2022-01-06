@@ -49,6 +49,7 @@ Directory structure
        +--- Bxxx
        +--- Byyy
        +--- Bzzz
+       ...
 ```
 
 Chamber scans

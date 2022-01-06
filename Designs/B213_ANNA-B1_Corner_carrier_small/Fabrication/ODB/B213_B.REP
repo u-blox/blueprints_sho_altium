@@ -1,0 +1,178 @@
+*************************************************************
+FileName = B213.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\matrix\matrix
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\profile
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\stephdr
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\attrlist
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\dielectric_1\features
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\dielectric_1\attrlist
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\core\features
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\core\attrlist
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\dielectric_2\features
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\dielectric_2\attrlist
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\layer_1\features
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\layer_1\attrlist
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\layer_2\features
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\layer_2\attrlist
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\features
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\attrlist
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\bottom\features
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\bottom\attrlist
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\bottom_paste\attrlist
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\top_solder\features
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\keep-out_layer\features
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\keep-out_layer\attrlist
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\route_tool_path\features
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\route_tool_path\attrlist
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\bottom_overlay\features
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\bottom_overlay\attrlist
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\features
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\attrlist
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\tools
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\border___title\features
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\border___title\attrlist
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\fabrication_notes\features
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\fabrication_notes\attrlist
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\top_courtyard\features
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\top_courtyard\attrlist
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\bottom_courtyard\features
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\bottom_courtyard\attrlist
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\top_assembly\features
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\top_assembly\attrlist
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\mechanical_9\features
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\mechanical_9\attrlist
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\ref_des_bottom\features
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\ref_des_bottom\attrlist
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\assembly_bottom\features
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\assembly_bottom\attrlist
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\coutryard_bottom\features
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\coutryard_bottom\attrlist
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\bottom_designator\features
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\bottom_designator\attrlist
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\mechanical_21\features
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\mechanical_21\attrlist
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\mechanical_24\features
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\mechanical_24\attrlist
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\assembly_top\features
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\assembly_top\attrlist
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\mechanical_30\features
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\mechanical_30\attrlist
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\mechanical_31\features
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\mechanical_31\attrlist
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\courtyard_top\features
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\courtyard_top\attrlist
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\rigid_outline\features
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\rigid_outline\attrlist
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\drill_guide_top-bottom\features
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\drill_guide_top-bottom\attrlist
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\bottom_assembly\features
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\bottom_assembly\attrlist
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\top\features
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\top\attrlist
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\top_paste\features
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\mechanical_23\features
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\mechanical_23\attrlist
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\ref_des_top\features
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\ref_des_top\attrlist
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\drill_drawing_top-bottom\features
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\drill_drawing_top-bottom\attrlist
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : C:\Users\brec\svn\ae-sho-team-global\_cross\app_notes_working_folder\AE_SHO-866_Antenna_app_note\Designs\B213_ANNA-B1_Corner_carrier_small\Rev B\.\Fabrication\ODB\odb\steps\pcb\eda\data
+

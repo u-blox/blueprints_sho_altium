@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 5:58:58 PM On 9/2/2021
+
+Output: Production BOM
+Type  : BOM
+From  : Variant [[No Variations]] of Project [B221_BMD-350_carrier_small.PrjPcb]
+   Generated File[B220 BMD-350 CM_A_MFG_BOM.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 5:59:04 PM On 9/2/2021

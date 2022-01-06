@@ -1,0 +1,942 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 0 11.00000086 14.44999904 180 N D3 115-00011 ;0=1,1=1.0000
+PRP Arena_Link 'https://app.bom.com/a/UCV39GZGZIHY581D?v=spec.summary'
+PRP Body_Size '2.0mm x 2.0mm'
+PRP Color 'RGB'
+PRP Component_Mounting_Type 'SMT'
+PRP Current '20mA Red, 10mA Green, 10mA, Blue'
+PRP Height '1mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'Cree, Inc.'
+PRP Manufacturer_P/N 'CLMVB-FKA-CFHEHLCBB7a363'
+PRP MFG_Package 'PLCC4'
+PRP Mounting_Type 'Vertical'
+PRP Number_of_Circuits '3'
+PRP Package_Type 'Custom'
+PRP Part_Name 'LED RGB SMT 2mm x 2mm'
+PRP Part_Number '115-00011'
+PRP Part_Type 'LED'
+PRP Pins '4'
+PRP Revision '0A'
+PRP Supplier_1 'Mouser'
+PRP Supplier_Part_Number_1 '941-CLMVBFKACFHEHLCB'
+PRP Use_in_new_designs 'Yes'
+PRP Vf '2V Red, 3V Green, 3V Blue'
+PRP Voltage '5V'
+TOP 0 10.24999982 14.99999794 180 N 38 2 D3-1
+TOP 1 11.7500019 14.99999794 180 N 1 0 D3-2
+TOP 2 11.7500019 13.90000014 180 N 20 1 D3-3
+TOP 3 10.24999982 13.90000014 180 N 21 1 D3-4
+#
+# CMP 1
+CMP 5 3.50000062 10.00000032 0 N MH1 MH_M2DNP ;0=2,1=8.5400
+PRP Added_By 'Jeremy D'
+PRP Added_Date '7/9/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Features ''
+PRP Height '0mm'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'MH_M2'
+PRP Size '4.3mm x 4.3mm'
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+PRP Type 'Mounting Hole'
+TOP 0 3.50000062 10.00000032 0 N 37 1 MH1-1
+#
+# CMP 2
+CMP 6 11.00000086 31.7000001 270 N U1 NORA-B106 ;0=1,1=1.8000
+PRP Body_Size '14.3 mm x 10.4 mm'
+PRP Height '1.8 mm'
+PRP Manufacturer 'u-blox'
+PRP Manufacturer_P/N 'NORA-B106-00B'
+PRP Part_Description 'Stand-alone Bluetooth low energy module - dual core'
+PRP Part_Name 'NORA-B106'
+PRP Part_Number 'NORA-B106'
+PRP Part_Type 'Module'
+PRP Value 'NORA-B106'
+TOP 0 15.39999968 26.20000094 180 N 7 14 U1-A1
+TOP 1 14.29999934 26.20000094 180 N 23 1 U1-A2
+TOP 2 13.199999 26.20000094 180 N 0 16 U1-A3
+TOP 3 12.09999866 26.20000094 180 N 0 20 U1-A4
+TOP 4 10.99999832 26.20000094 180 N 11 1 U1-A5
+TOP 5 9.89999798 26.20000094 180 N 0 26 U1-A6
+TOP 6 8.79999764 26.20000094 180 N 3 2 U1-A7
+TOP 7 7.6999973 26.20000094 180 N 3 4 U1-A8
+TOP 8 6.59999696 26.20000094 180 N 7 27 U1-A9
+TOP 9 15.39999968 27.30000128 180 N 0 5 U1-B1
+TOP 10 14.29999934 27.30000128 180 N 7 17 U1-B2
+TOP 11 13.199999 27.30000128 180 N 0 17 U1-B3
+TOP 12 12.09999866 27.30000128 180 N 0 21 U1-B4
+TOP 13 10.99999832 27.30000128 180 N 0 23 U1-B5
+TOP 14 9.89999798 27.30000128 180 N 36 0 U1-B6
+TOP 15 8.79999764 27.30000128 180 N 3 3 U1-B7
+TOP 16 7.6999973 27.30000128 180 N 7 24 U1-B8
+TOP 17 6.59999696 27.30000128 180 N 0 35 U1-B9
+TOP 18 15.39999968 28.40000162 180 N 17 1 U1-C1
+TOP 19 14.29999934 28.40000162 180 N 0 12 U1-C2
+TOP 20 12.09999866 28.40000162 180 N 0 22 U1-C4
+TOP 21 10.99999832 28.40000162 180 N 0 24 U1-C5
+TOP 22 9.89999798 28.40000162 180 N 35 0 U1-C6
+TOP 23 7.6999973 28.40000162 180 N 15 1 U1-C8
+TOP 24 6.59999696 28.40000162 180 N 0 36 U1-C9
+TOP 25 15.39999968 29.50000196 180 N 0 6 U1-D1
+TOP 26 14.29999934 29.50000196 180 N 0 13 U1-D2
+TOP 27 13.199999 29.50000196 180 N 0 18 U1-D3
+TOP 28 8.79999764 29.50000196 180 N 26 1 U1-D7
+TOP 29 7.6999973 29.50000196 180 N 0 31 U1-D8
+TOP 30 6.59999696 29.50000196 180 N 0 37 U1-D9
+TOP 31 15.39999968 30.6000023 180 N 0 7 U1-E1
+TOP 32 14.29999934 30.6000023 180 N 0 14 U1-E2
+TOP 33 13.199999 30.6000023 180 N 25 1 U1-E3
+TOP 34 11.54999976 30.59999976 180 N 7 12 U1-E4
+TOP 35 10.45000196 30.59999976 180 N 7 21 U1-E5
+TOP 36 8.79999764 30.6000023 180 N 0 27 U1-E7
+TOP 37 7.6999973 30.6000023 180 N 0 32 U1-E8
+TOP 38 6.59999696 30.6000023 180 N 0 38 U1-E9
+TOP 39 15.39999968 31.70000264 180 N 0 8 U1-F1
+TOP 40 14.29999934 31.70000264 180 N 0 15 U1-F2
+TOP 41 13.199999 31.70000264 180 N 19 1 U1-F3
+TOP 42 11.54999976 31.7000001 180 N 7 11 U1-F4
+TOP 43 10.45000196 31.7000001 180 N 7 13 U1-F5
+TOP 44 8.79999764 31.70000264 180 N 0 28 U1-F7
+TOP 45 7.6999973 31.70000264 180 N 0 33 U1-F8
+TOP 46 6.59999696 31.70000264 180 N 0 39 U1-F9
+TOP 47 15.39999968 32.80000298 180 N 0 9 U1-G1
+TOP 48 14.29999934 32.80000298 180 N 13 1 U1-G2
+TOP 49 13.199999 32.80000298 180 N 9 1 U1-G3
+TOP 50 11.54999976 32.80000044 180 N 0 3 U1-G4
+TOP 51 10.45000196 32.80000044 180 N 0 25 U1-G5
+TOP 52 8.79999764 32.80000298 180 N 0 29 U1-G7
+TOP 53 7.6999973 32.80000298 180 N 0 34 U1-G8
+TOP 54 6.59999696 32.80000298 180 N 0 40 U1-G9
+TOP 55 15.39999968 33.90000332 180 N 2 1 U1-H1
+TOP 56 14.29999934 33.90000332 180 N 4 0 U1-H2
+TOP 57 13.199999 33.90000332 180 N 0 19 U1-H3
+TOP 58 8.79999764 33.90000332 180 N 28 1 U1-H7
+TOP 59 7.6999973 33.90000332 180 N 27 0 U1-H8
+TOP 60 6.59999696 33.90000332 180 N 0 41 U1-H9
+TOP 61 15.39999968 35.00000366 180 N 0 10 U1-J1
+TOP 62 14.29999934 35.00000366 180 N 5 1 U1-J2
+TOP 63 13.199999 35.00000366 180 N 6 1 U1-J3
+TOP 64 11.54999976 35.00000112 180 N 0 4 U1-J4
+TOP 65 10.45000196 35.00000112 180 N 0 44 U1-J5
+TOP 66 8.79999764 35.00000366 180 N 0 30 U1-J7
+TOP 67 7.6999973 35.00000366 180 N 29 1 U1-J8
+TOP 68 6.59999696 35.00000366 180 N 0 42 U1-J9
+TOP 69 15.39999968 36.100004 180 N 0 11 U1-K1
+TOP 70 14.29999934 36.100004 180 N 7 18 U1-K2
+TOP 71 13.199999 36.100004 180 N 7 20 U1-K3
+TOP 72 10.99999832 36.100004 180 N 7 22 U1-K5
+TOP 73 8.79999764 36.100004 180 N 7 23 U1-K7
+TOP 74 7.6999973 36.100004 180 N 7 25 U1-K8
+TOP 75 6.59999696 36.100004 180 N 0 43 U1-K9
+TOP 76 15.39999968 37.600001 180 N 7 15 U1-L1
+TOP 77 6.5999995 37.600001 180 N 7 28 U1-L9
+TOP 78 15.39999968 39.10000054 180 N 7 16 U1-M1
+TOP 79 14.30000188 39.10000054 180 N 7 19 U1-M2
+TOP 80 7.69999984 39.10000054 180 N 7 26 U1-M8
+TOP 81 6.5999995 39.10000054 180 N 7 29 U1-M9
+#
+# CMP 3
+CMP 3 9.24999928 24.47500058 0 N C1 UBXH01-2021002100N ;0=1,1=0.6000
+PRP Automotive 'None'
+PRP Critical 'None'
+PRP Editor 'roland.rust'
+PRP Env 'GREEN'
+PRP Manufacturer 'Samsung Electro-Mechanics'
+PRP Manufacturer_2 'None'
+PRP Manufacturer_3 'None'
+PRP Manufacturer_P/N 'CL05A104KP5NNN'
+PRP Manufacturer_P/N_2 'None'
+PRP Manufacturer_P/N_3 'None'
+PRP Max_Current 'None'
+PRP Max_Operating_Temp 'None'
+PRP Max_Power 'None'
+PRP Max_Voltage '10.0V'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=28113'
+PRP Mfg_P/N_Datasheet_2 'None'
+PRP Mfg_P/N_Datasheet_3 'None'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'None'
+PRP Mfg_P/N_Released_3 'None'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Split_2 'None'
+PRP Mfg_P/N_Split_3 'None'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'None'
+PRP Mfg_P/N_Status_3 'None'
+PRP Min_Operating_Temp 'None'
+PRP Part_Number 'UBXH01-2021002'
+PRP Part_Type 'Capacitor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'C'
+PRP Release_Data '2005-07-22 13:59:44'
+PRP Released_by 'roland.rust'
+PRP Single_Source 'None'
+PRP Size '0x0y'
+PRP Tolerance '10%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=5759'
+PRP Value '100N'
+TOP 0 8.80000018 24.47500058 270 N 3 5 C1-1
+TOP 1 9.69999838 24.47500058 270 N 7 30 C1-2
+#
+# CMP 4
+CMP 4 15.24999998 19.97499942 90 N L2 LQW18AN22NJ10D ;0=1,1=1.0000
+PRP Category 'Inductors,Coils,Chokes'
+PRP Current_Rating '640mA'
+PRP Datasheet_URL 'http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/L0075S0080LQW18A_10.pdf'
+PRP Datasheet_Version '11/2011'
+PRP DC_Resistance_(DCR) '99mOhmMax'
+PRP Family 'FixedInductors'
+PRP Frequency_-_Self_Resonant '3.2GHz'
+PRP Frequency_-_Test '100MHz'
+PRP Height_-_Seated_(Max) '0.039_(1.00mm)'
+PRP Inductance '22nH'
+PRP Manufacturer 'Murata'
+PRP Manufacturer_URL 'http://www.murata.com/'
+PRP Material_-_Core 'Non-Magnetic'
+PRP Mounting_Technology 'SurfaceMount'
+PRP Mounting_Type 'SurfaceMount'
+PRP Online_Catalog 'LQWSeries'
+PRP Operating_Temperature '-55°C~125°C'
+PRP Other_Names '490-6876-1'
+PRP Package_/_Case '0603(1608Metric)'
+PRP Package_Description '2-Pin Surface Mount Device, Body 1.6 x 0.8 mm'
+PRP Package_Reference '0603'
+PRP Packaging 'CutTape(CT)'
+PRP Product_Training_Modules 'InductorProductsChipRFInductors'
+PRP Q_@_Freq '42@250MHz'
+PRP Series 'LQW18A_10'
+PRP Shielding 'Unshielded'
+PRP Size_/_Dimension '0.063_Lx0.031_W(1.60mmx0.80mm)'
+PRP Standard_Package '1'
+PRP Tolerance '±5%'
+PRP Type 'Wirewound'
+TOP 0 15.24999998 20.65999678 0 N 7 31 L2-1
+TOP 1 15.24999998 19.28999698 0 N 37 5 L2-2
+#
+# CMP 5
+CMP 4 6.7499992 19.97499942 90 N L1 LQW18AN22NJ10D ;0=1,1=1.0000
+PRP Category 'Inductors,Coils,Chokes'
+PRP Current_Rating '640mA'
+PRP Datasheet_URL 'http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/L0075S0080LQW18A_10.pdf'
+PRP Datasheet_Version '11/2011'
+PRP DC_Resistance_(DCR) '99mOhmMax'
+PRP Family 'FixedInductors'
+PRP Frequency_-_Self_Resonant '3.2GHz'
+PRP Frequency_-_Test '100MHz'
+PRP Height_-_Seated_(Max) '0.039_(1.00mm)'
+PRP Inductance '22nH'
+PRP Manufacturer 'Murata'
+PRP Manufacturer_URL 'http://www.murata.com/'
+PRP Material_-_Core 'Non-Magnetic'
+PRP Mounting_Technology 'SurfaceMount'
+PRP Mounting_Type 'SurfaceMount'
+PRP Online_Catalog 'LQWSeries'
+PRP Operating_Temperature '-55°C~125°C'
+PRP Other_Names '490-6876-1'
+PRP Package_/_Case '0603(1608Metric)'
+PRP Package_Description '2-Pin Surface Mount Device, Body 1.6 x 0.8 mm'
+PRP Package_Reference '0603'
+PRP Packaging 'CutTape(CT)'
+PRP Product_Training_Modules 'InductorProductsChipRFInductors'
+PRP Q_@_Freq '42@250MHz'
+PRP Series 'LQW18A_10'
+PRP Shielding 'Unshielded'
+PRP Size_/_Dimension '0.063_Lx0.031_W(1.60mmx0.80mm)'
+PRP Standard_Package '1'
+PRP Tolerance '±5%'
+PRP Type 'Wirewound'
+TOP 0 6.7499992 20.65999678 0 N 3 1 L1-1
+TOP 1 6.7499992 19.28999698 0 N 38 1 L1-2
+#
+# CMP 6
+CMP 7 18.29999896 20.00000064 270 N R5 180-00098220R ;0=1,1=0.4000
+PRP Alternate_Footprint_Ref 'RES 0402'
+PRP Arena_Link 'https://app.bom.com/a/8Q9HNUDUDWVBJC30?v=spec.summary'
+PRP Component_Mounting_Type 'SMT'
+PRP Height '0.4mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_2 'Samsung Electro-Mechanics America, Inc'
+PRP Manufacturer_P/N 'ERJ-2GEJ221X'
+PRP Manufacturer_P/N_2 'RC1005J221CS'
+PRP Part_Name 'RES SMD 220 OHM 5% 1/16W 0402'
+PRP Part_Number '180-00098'
+PRP Part_Type 'Resistor'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0C'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'P220JCT-ND'
+PRP Supplier_Part_Number_2 '1276-4360-1-ND'
+PRP Tolerance '+/- 5%'
+PRP Use_in_new_designs 'Yes'
+PRP Value '220R'
+TOP 0 18.29999896 19.60000144 180 N 31 0 R5-1
+TOP 1 18.29999896 20.39999984 180 N 4 1 R5-2
+#
+# CMP 7
+CMP 7 19.90000084 20.00000064 270 N R4 180-00098220R ;0=1,1=0.4000
+PRP Alternate_Footprint_Ref 'RES 0402'
+PRP Arena_Link 'https://app.bom.com/a/8Q9HNUDUDWVBJC30?v=spec.summary'
+PRP Component_Mounting_Type 'SMT'
+PRP Height '0.4mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_2 'Samsung Electro-Mechanics America, Inc'
+PRP Manufacturer_P/N 'ERJ-2GEJ221X'
+PRP Manufacturer_P/N_2 'RC1005J221CS'
+PRP Part_Name 'RES SMD 220 OHM 5% 1/16W 0402'
+PRP Part_Number '180-00098'
+PRP Part_Type 'Resistor'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0C'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'P220JCT-ND'
+PRP Supplier_Part_Number_2 '1276-4360-1-ND'
+PRP Tolerance '+/- 5%'
+PRP Use_in_new_designs 'Yes'
+PRP Value '220R'
+TOP 0 19.90000084 19.60000144 180 N 32 0 R4-1
+TOP 1 19.90000084 20.39999984 180 N 5 0 R4-2
+#
+# CMP 8
+CMP 7 20.70000178 20.00000064 270 N R3 180-00098220R ;0=1,1=0.4000
+PRP Alternate_Footprint_Ref 'RES 0402'
+PRP Arena_Link 'https://app.bom.com/a/8Q9HNUDUDWVBJC30?v=spec.summary'
+PRP Component_Mounting_Type 'SMT'
+PRP Height '0.4mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_2 'Samsung Electro-Mechanics America, Inc'
+PRP Manufacturer_P/N 'ERJ-2GEJ221X'
+PRP Manufacturer_P/N_2 'RC1005J221CS'
+PRP Part_Name 'RES SMD 220 OHM 5% 1/16W 0402'
+PRP Part_Number '180-00098'
+PRP Part_Type 'Resistor'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0C'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'P220JCT-ND'
+PRP Supplier_Part_Number_2 '1276-4360-1-ND'
+PRP Tolerance '+/- 5%'
+PRP Use_in_new_designs 'Yes'
+PRP Value '220R'
+TOP 0 20.70000178 19.60000144 180 N 30 0 R3-1
+TOP 1 20.70000178 20.39999984 180 N 6 0 R3-2
+#
+# CMP 9
+CMP 9 8.46000086 10.0100003 0 N P1 TC2030-IDC-NLDNP ;0=1,1=0.0000
+PRP Added_By 'Paul B'
+PRP Added_Date '4/22/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer 'TAG Connect'
+PRP Manufacturer_P/N 'TC2030-IDC-NL'
+PRP Part_Number 'TC2030-IDC-NL'
+PRP Size '6.731mm x 12.446mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 13.54000086 8.9940003 0 N 0 0 P1-0
+TOP 1 13.54000086 11.0260003 0 N 0 1 P1-0
+TOP 2 8.46000086 10.0100003 0 N 0 2 P1-0
+TOP 3 9.73000086 9.3750003 0 N 38 3 P1-1
+TOP 4 9.73000086 10.6450003 0 N 31 1 P1-2
+TOP 5 11.00000086 9.3750003 0 N 30 1 P1-3
+TOP 6 11.00000086 10.6450003 0 N 32 1 P1-4
+TOP 7 12.27000086 9.3750003 0 N 37 6 P1-5
+TOP 8 12.27000086 10.6450003 0 N 0 45 P1-6
+#
+# CMP 10
+CMP 1 11.00000086 1.44999964 0 N P2 61300811021 ;0=2,1=0.0000
+PRP Contact_Resistance '20mOhm'
+PRP Datasheet_URL 'https://katalog.we-online.de/em/datasheet/6130xx11021.pdf'
+PRP Gender 'Male'
+PRP Manufacturer 'Wurth Electronics'
+PRP Manufacturer_Part_Number '61300811021'
+PRP Manufacturer_URL 'http://www.we-online.de'
+PRP Mounting_Technology 'THT'
+PRP Operating_Temperature '-40to105degC'
+PRP Orientation 'Angled'
+PRP Package_Reference '61300811021'
+PRP Packaging 'Bag'
+PRP Part_Number '61300811021'
+PRP Pin_Number '8'
+PRP Pitch '2.54mm'
+PRP Publisher 'WurthElektronik'
+PRP Rated_Current '3A'
+PRP Row_Number 'Single'
+PRP Withstanding_Voltage '500VAC'
+PRP Working_Voltage '250VAC'
+TOP 0 19.89000086 4.21999918 0 N 38 0 P2-1
+TOP 1 17.35000086 4.21999918 0 N 14 0 P2-2
+TOP 2 14.81000086 4.21999918 0 N 10 0 P2-3
+TOP 3 12.27000086 4.21999918 0 N 24 0 P2-4
+TOP 4 9.73000086 4.21999918 0 N 18 0 P2-5
+TOP 5 7.19000086 4.21999918 0 N 12 0 P2-6
+TOP 6 4.65000086 4.21999918 0 N 8 0 P2-7
+TOP 7 2.11000086 4.21999918 0 N 37 2 P2-8
+#
+# CMP 11
+CMP 7 5.3000021 20.00000064 270 N R9 180-00098220R ;0=1,1=0.4000
+PRP Alternate_Footprint_Ref 'RES 0402'
+PRP Arena_Link 'https://app.bom.com/a/8Q9HNUDUDWVBJC30?v=spec.summary'
+PRP Component_Mounting_Type 'SMT'
+PRP Height '0.4mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_2 'Samsung Electro-Mechanics America, Inc'
+PRP Manufacturer_P/N 'ERJ-2GEJ221X'
+PRP Manufacturer_P/N_2 'RC1005J221CS'
+PRP Part_Name 'RES SMD 220 OHM 5% 1/16W 0402'
+PRP Part_Number '180-00098'
+PRP Part_Type 'Resistor'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0C'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'P220JCT-ND'
+PRP Supplier_Part_Number_2 '1276-4360-1-ND'
+PRP Tolerance '+/- 5%'
+PRP Use_in_new_designs 'Yes'
+PRP Value '220R'
+TOP 0 5.3000021 19.60000144 180 N 14 1 R9-1
+TOP 1 5.3000021 20.39999984 180 N 15 0 R9-2
+#
+# CMP 12
+CMP 7 12.200001 20.00000064 270 N R8 180-00098220R ;0=1,1=0.4000
+PRP Alternate_Footprint_Ref 'RES 0402'
+PRP Arena_Link 'https://app.bom.com/a/8Q9HNUDUDWVBJC30?v=spec.summary'
+PRP Component_Mounting_Type 'SMT'
+PRP Height '0.4mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_2 'Samsung Electro-Mechanics America, Inc'
+PRP Manufacturer_P/N 'ERJ-2GEJ221X'
+PRP Manufacturer_P/N_2 'RC1005J221CS'
+PRP Part_Name 'RES SMD 220 OHM 5% 1/16W 0402'
+PRP Part_Number '180-00098'
+PRP Part_Type 'Resistor'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0C'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'P220JCT-ND'
+PRP Supplier_Part_Number_2 '1276-4360-1-ND'
+PRP Tolerance '+/- 5%'
+PRP Use_in_new_designs 'Yes'
+PRP Value '220R'
+TOP 0 12.200001 19.60000144 180 N 24 1 R8-1
+TOP 1 12.200001 20.39999984 180 N 25 0 R8-2
+#
+# CMP 13
+CMP 7 10.59999912 20.00000064 270 N R7 180-00098220R ;0=1,1=0.4000
+PRP Alternate_Footprint_Ref 'RES 0402'
+PRP Arena_Link 'https://app.bom.com/a/8Q9HNUDUDWVBJC30?v=spec.summary'
+PRP Component_Mounting_Type 'SMT'
+PRP Height '0.4mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_2 'Samsung Electro-Mechanics America, Inc'
+PRP Manufacturer_P/N 'ERJ-2GEJ221X'
+PRP Manufacturer_P/N_2 'RC1005J221CS'
+PRP Part_Name 'RES SMD 220 OHM 5% 1/16W 0402'
+PRP Part_Number '180-00098'
+PRP Part_Type 'Resistor'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0C'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'P220JCT-ND'
+PRP Supplier_Part_Number_2 '1276-4360-1-ND'
+PRP Tolerance '+/- 5%'
+PRP Use_in_new_designs 'Yes'
+PRP Value '220R'
+TOP 0 10.59999912 19.60000144 180 N 10 1 R7-1
+TOP 1 10.59999912 20.39999984 180 N 11 0 R7-2
+#
+# CMP 14
+CMP 7 11.40000006 20.00000064 270 N R6 180-00098220R ;0=1,1=0.4000
+PRP Alternate_Footprint_Ref 'RES 0402'
+PRP Arena_Link 'https://app.bom.com/a/8Q9HNUDUDWVBJC30?v=spec.summary'
+PRP Component_Mounting_Type 'SMT'
+PRP Height '0.4mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_2 'Samsung Electro-Mechanics America, Inc'
+PRP Manufacturer_P/N 'ERJ-2GEJ221X'
+PRP Manufacturer_P/N_2 'RC1005J221CS'
+PRP Part_Name 'RES SMD 220 OHM 5% 1/16W 0402'
+PRP Part_Number '180-00098'
+PRP Part_Type 'Resistor'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0C'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'P220JCT-ND'
+PRP Supplier_Part_Number_2 '1276-4360-1-ND'
+PRP Tolerance '+/- 5%'
+PRP Use_in_new_designs 'Yes'
+PRP Value '220R'
+TOP 0 11.40000006 19.60000144 180 N 18 1 R6-1
+TOP 1 11.40000006 20.39999984 180 N 19 0 R6-2
+#
+# CMP 15
+CMP 7 12.9999994 20.00000064 270 N R2 180-00098220R ;0=1,1=0.4000
+PRP Alternate_Footprint_Ref 'RES 0402'
+PRP Arena_Link 'https://app.bom.com/a/8Q9HNUDUDWVBJC30?v=spec.summary'
+PRP Component_Mounting_Type 'SMT'
+PRP Height '0.4mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_2 'Samsung Electro-Mechanics America, Inc'
+PRP Manufacturer_P/N 'ERJ-2GEJ221X'
+PRP Manufacturer_P/N_2 'RC1005J221CS'
+PRP Part_Name 'RES SMD 220 OHM 5% 1/16W 0402'
+PRP Part_Number '180-00098'
+PRP Part_Type 'Resistor'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0C'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'P220JCT-ND'
+PRP Supplier_Part_Number_2 '1276-4360-1-ND'
+PRP Tolerance '+/- 5%'
+PRP Use_in_new_designs 'Yes'
+PRP Value '220R'
+TOP 0 12.9999994 19.60000144 180 N 22 1 R2-1
+TOP 1 12.9999994 20.39999984 180 N 23 0 R2-2
+#
+# CMP 16
+CMP 7 16.69999962 20.00000064 270 N R1 180-00098220R ;0=1,1=0.4000
+PRP Alternate_Footprint_Ref 'RES 0402'
+PRP Arena_Link 'https://app.bom.com/a/8Q9HNUDUDWVBJC30?v=spec.summary'
+PRP Component_Mounting_Type 'SMT'
+PRP Height '0.4mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_2 'Samsung Electro-Mechanics America, Inc'
+PRP Manufacturer_P/N 'ERJ-2GEJ221X'
+PRP Manufacturer_P/N_2 'RC1005J221CS'
+PRP Part_Name 'RES SMD 220 OHM 5% 1/16W 0402'
+PRP Part_Number '180-00098'
+PRP Part_Type 'Resistor'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0C'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'P220JCT-ND'
+PRP Supplier_Part_Number_2 '1276-4360-1-ND'
+PRP Tolerance '+/- 5%'
+PRP Use_in_new_designs 'Yes'
+PRP Value '220R'
+TOP 0 16.69999962 19.60000144 180 N 16 0 R1-1
+TOP 1 16.69999962 20.39999984 180 N 17 0 R1-2
+#
+# CMP 17
+CMP 11 4.55000106 28.3750004 90 N X1 100-00005 ;0=1,1=0.9000
+PRP Arena_Link 'https://app.bom.com/a/L3MU07Q7Q98O5PC8?v=spec.summary'
+PRP Body_Size '3.2mm x 1.5mm'
+PRP CL '7pF'
+PRP Component_Mounting_Type 'SMT'
+PRP Frequency '32.768kHz'
+PRP Frequency_Tolerance '20ppm'
+PRP Height '0.9mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'Epson'
+PRP Manufacturer_2 'AVX Corporation'
+PRP Manufacturer_P/N 'FC-135 32.7680KA-AG3'
+PRP Manufacturer_P/N_2 'ST3215SB32768C0HPWBB'
+PRP MFG_Package '2-SMD'
+PRP Part_Name 'XTAL 32.768kHz 7pF 20ppm 3215'
+PRP Part_Number '100-00005'
+PRP Part_Type 'Crystal/Oscillator'
+PRP Pins '2'
+PRP Revision '0C'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'SER4086CT-ND'
+PRP Supplier_Part_Number_2 '1253-1113-1-ND'
+PRP Use_in_new_designs 'Yes'
+TOP 0 4.55000106 29.67500034 90 N 35 1 X1-1
+TOP 1 4.55000106 27.07500046 90 N 36 1 X1-2
+#
+# CMP 18
+CMP 10 16.69999962 18.24999906 270 N RTS_NET1 TP ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 16.69999962 18.24999906 270 N 16 1 RTS_NET1-1
+#
+# CMP 19
+CMP 10 12.9999994 18.24999906 270 N CTS_NET1 TP ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 12.9999994 18.24999906 270 N 22 0 CTS_NET1-1
+#
+# CMP 20
+CMP 7 17.50000056 20.00000064 270 N R13 180-00098220R ;0=1,1=0.4000
+PRP Alternate_Footprint_Ref 'RES 0402'
+PRP Arena_Link 'https://app.bom.com/a/8Q9HNUDUDWVBJC30?v=spec.summary'
+PRP Component_Mounting_Type 'SMT'
+PRP Height '0.4mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_2 'Samsung Electro-Mechanics America, Inc'
+PRP Manufacturer_P/N 'ERJ-2GEJ221X'
+PRP Manufacturer_P/N_2 'RC1005J221CS'
+PRP Part_Name 'RES SMD 220 OHM 5% 1/16W 0402'
+PRP Part_Number '180-00098'
+PRP Part_Type 'Resistor'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0C'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'P220JCT-ND'
+PRP Supplier_Part_Number_2 '1276-4360-1-ND'
+PRP Tolerance '+/- 5%'
+PRP Use_in_new_designs 'Yes'
+PRP Value '220R'
+TOP 0 17.50000056 19.60000144 180 N 12 1 R13-1
+TOP 1 17.50000056 20.39999984 180 N 13 0 R13-2
+#
+# CMP 21
+CMP 7 13.80000034 20.00000064 270 N R12 180-00098220R ;0=1,1=0.4000
+PRP Alternate_Footprint_Ref 'RES 0402'
+PRP Arena_Link 'https://app.bom.com/a/8Q9HNUDUDWVBJC30?v=spec.summary'
+PRP Component_Mounting_Type 'SMT'
+PRP Height '0.4mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_2 'Samsung Electro-Mechanics America, Inc'
+PRP Manufacturer_P/N 'ERJ-2GEJ221X'
+PRP Manufacturer_P/N_2 'RC1005J221CS'
+PRP Part_Name 'RES SMD 220 OHM 5% 1/16W 0402'
+PRP Part_Number '180-00098'
+PRP Part_Type 'Resistor'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0C'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'P220JCT-ND'
+PRP Supplier_Part_Number_2 '1276-4360-1-ND'
+PRP Tolerance '+/- 5%'
+PRP Use_in_new_designs 'Yes'
+PRP Value '220R'
+TOP 0 13.80000034 19.60000144 180 N 8 1 R12-1
+TOP 1 13.80000034 20.39999984 180 N 9 0 R12-2
+#
+# CMP 22
+CMP 7 19.0999999 20.00000064 270 N R11 180-00098220R ;0=1,1=0.4000
+PRP Alternate_Footprint_Ref 'RES 0402'
+PRP Arena_Link 'https://app.bom.com/a/8Q9HNUDUDWVBJC30?v=spec.summary'
+PRP Component_Mounting_Type 'SMT'
+PRP Height '0.4mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_2 'Samsung Electro-Mechanics America, Inc'
+PRP Manufacturer_P/N 'ERJ-2GEJ221X'
+PRP Manufacturer_P/N_2 'RC1005J221CS'
+PRP Part_Name 'RES SMD 220 OHM 5% 1/16W 0402'
+PRP Part_Number '180-00098'
+PRP Part_Type 'Resistor'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0C'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'P220JCT-ND'
+PRP Supplier_Part_Number_2 '1276-4360-1-ND'
+PRP Tolerance '+/- 5%'
+PRP Use_in_new_designs 'Yes'
+PRP Value '220R'
+TOP 0 19.0999999 19.60000144 180 N 33 0 R11-1
+TOP 1 19.0999999 20.39999984 180 N 2 0 R11-2
+#
+# CMP 23
+CMP 7 4.50000116 20.00000064 270 N R10 180-00098220R ;0=1,1=0.4000
+PRP Alternate_Footprint_Ref 'RES 0402'
+PRP Arena_Link 'https://app.bom.com/a/8Q9HNUDUDWVBJC30?v=spec.summary'
+PRP Component_Mounting_Type 'SMT'
+PRP Height '0.4mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_2 'Samsung Electro-Mechanics America, Inc'
+PRP Manufacturer_P/N 'ERJ-2GEJ221X'
+PRP Manufacturer_P/N_2 'RC1005J221CS'
+PRP Part_Name 'RES SMD 220 OHM 5% 1/16W 0402'
+PRP Part_Number '180-00098'
+PRP Part_Type 'Resistor'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0C'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'P220JCT-ND'
+PRP Supplier_Part_Number_2 '1276-4360-1-ND'
+PRP Tolerance '+/- 5%'
+PRP Use_in_new_designs 'Yes'
+PRP Value '220R'
+TOP 0 4.50000116 19.60000144 180 N 34 2 R10-1
+TOP 1 4.50000116 20.39999984 180 N 26 0 R10-2
+#
+# CMP 24
+CMP 5 18.5000011 10.00000032 0 N MH2 MH_M2DNP ;0=2,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '7/9/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Features ''
+PRP Height '0mm'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'MH_M2'
+PRP Size '4.3mm x 4.3mm'
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+PRP Type 'Mounting Hole'
+TOP 0 18.5000011 10.00000032 0 N 37 0 MH2-1
+#
+# CMP 25
+CMP 2 18.5000011 15.00000048 180 N SW2 135-00007 ;0=1,1=1.2000
+PRP Arena_Link 'https://app.bom.com/a/TBU28FYFYHGV5FQ0?v=spec.summary'
+PRP Body_Size '3mm x 2.5mm'
+PRP Component_Mounting_Type 'SMT'
+PRP Current '50mA'
+PRP Height '1.2mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'Omron Electronics Inc-EMC Div'
+PRP Manufacturer_P/N 'B3U-1000P'
+PRP Part_Name 'SWITCH TACTILE SPST-NO 0.05A 12V'
+PRP Part_Number '135-00007'
+PRP Part_Type 'Button'
+PRP Pins '2'
+PRP Revision '0A'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'SW1020CT-ND'
+PRP Switch/Button_Circuit 'SPST'
+PRP Switch/Button_Function 'Off-Mom'
+PRP Use_in_new_designs 'Yes'
+PRP Voltage '12VDC'
+TOP 0 20.20000024 15.00000048 90 N 33 1 SW2-1
+TOP 1 16.80000196 15.00000048 90 N 37 7 SW2-2
+#
+# CMP 26
+CMP 2 3.50000062 15.00000048 0 N SW1 135-00007 ;0=1,1=1.2000
+PRP Arena_Link 'https://app.bom.com/a/TBU28FYFYHGV5FQ0?v=spec.summary'
+PRP Body_Size '3mm x 2.5mm'
+PRP Component_Mounting_Type 'SMT'
+PRP Current '50mA'
+PRP Height '1.2mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'Omron Electronics Inc-EMC Div'
+PRP Manufacturer_P/N 'B3U-1000P'
+PRP Part_Name 'SWITCH TACTILE SPST-NO 0.05A 12V'
+PRP Part_Number '135-00007'
+PRP Part_Type 'Button'
+PRP Pins '2'
+PRP Revision '0A'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'SW1020CT-ND'
+PRP Switch/Button_Circuit 'SPST'
+PRP Switch/Button_Function 'Off-Mom'
+PRP Use_in_new_designs 'Yes'
+PRP Voltage '12VDC'
+TOP 0 1.80000148 15.00000048 270 N 34 1 SW1-1
+TOP 1 5.19999976 15.00000048 270 N 37 4 SW1-2
+#
+# CMP 27
+CMP 7 9.80000072 20.00000064 270 N R16 180-00098220R ;0=1,1=0.4000
+PRP Alternate_Footprint_Ref 'RES 0402'
+PRP Arena_Link 'https://app.bom.com/a/8Q9HNUDUDWVBJC30?v=spec.summary'
+PRP Component_Mounting_Type 'SMT'
+PRP Height '0.4mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_2 'Samsung Electro-Mechanics America, Inc'
+PRP Manufacturer_P/N 'ERJ-2GEJ221X'
+PRP Manufacturer_P/N_2 'RC1005J221CS'
+PRP Part_Name 'RES SMD 220 OHM 5% 1/16W 0402'
+PRP Part_Number '180-00098'
+PRP Part_Type 'Resistor'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0C'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'P220JCT-ND'
+PRP Supplier_Part_Number_2 '1276-4360-1-ND'
+PRP Tolerance '+/- 5%'
+PRP Use_in_new_designs 'Yes'
+PRP Value '220R'
+TOP 0 9.80000072 19.60000144 180 N 1 1 R16-1
+TOP 1 9.80000072 20.39999984 180 N 27 1 R16-2
+#
+# CMP 28
+CMP 7 8.99999978 20.00000064 270 N R15 180-00098220R ;0=1,1=0.4000
+PRP Alternate_Footprint_Ref 'RES 0402'
+PRP Arena_Link 'https://app.bom.com/a/8Q9HNUDUDWVBJC30?v=spec.summary'
+PRP Component_Mounting_Type 'SMT'
+PRP Height '0.4mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_2 'Samsung Electro-Mechanics America, Inc'
+PRP Manufacturer_P/N 'ERJ-2GEJ221X'
+PRP Manufacturer_P/N_2 'RC1005J221CS'
+PRP Part_Name 'RES SMD 220 OHM 5% 1/16W 0402'
+PRP Part_Number '180-00098'
+PRP Part_Type 'Resistor'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0C'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'P220JCT-ND'
+PRP Supplier_Part_Number_2 '1276-4360-1-ND'
+PRP Tolerance '+/- 5%'
+PRP Use_in_new_designs 'Yes'
+PRP Value '220R'
+TOP 0 8.99999978 19.60000144 180 N 20 0 R15-1
+TOP 1 8.99999978 20.39999984 180 N 28 0 R15-2
+#
+# CMP 29
+CMP 7 8.19999884 20.00000064 270 N R14 180-00031499R ;0=1,1=0.4000
+PRP Alternate_Footprint_Ref 'RES 0402'
+PRP Arena_Link 'https://app.bom.com/a/Q8RZ5CVCVEDU1SS5?v=spec.summary'
+PRP Component_Mounting_Type 'SMT'
+PRP Height '0.4mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'Rohm Semiconductor'
+PRP Manufacturer_2 'Samsung Electro-Mechanics America, Inc'
+PRP Manufacturer_P/N 'MCR01MRTF4990'
+PRP Manufacturer_P/N_2 'RC1005F4990CS'
+PRP Part_Name 'RES SMD 499 OHM 1% 1/16W 0402'
+PRP Part_Number '180-00031'
+PRP Part_Type 'Resistor'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0D'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'RHM499CDCT-ND'
+PRP Supplier_Part_Number_2 '1276-3992-1-ND'
+PRP Tolerance '+/- 1%'
+PRP Use_in_new_designs 'Yes'
+PRP Value '499R'
+TOP 0 8.19999884 19.60000144 180 N 21 0 R14-1
+TOP 1 8.19999884 20.39999984 180 N 29 0 R14-2
+#
+# CMP 30
+CMP 8 18.5000011 16.99999902 180 N D2 110-00019 ;0=1,1=1.1000
+PRP Arena_Link 'https://app.bom.com/a/4M5DJQ9Q9SR7DV4H?v=spec.summary'
+PRP Body_Size '0.8mm x 0.6mm'
+PRP Component_Mounting_Type 'SMT'
+PRP Diode_Type 'TVS'
+PRP Height '0.4mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'ON Semiconductor'
+PRP Manufacturer_P/N 'ESD9B3.3ST5G'
+PRP MFG_Package 'SOD-923'
+PRP Package_Type 'SOD'
+PRP Part_Name 'Diode TVS 3.3V SOD-923'
+PRP Part_Number '110-00019'
+PRP Part_Type 'Diode'
+PRP Pins '2'
+PRP Revision '0A'
+PRP Supplier_1 'Arrow'
+PRP Supplier_Part_Number_1 'ESD9B3.3ST5G'
+PRP Use_in_new_designs 'Yes'
+PRP Voltage '3.3V'
+TOP 0 18.92000026 17.00001426 180 N 33 2 D2-1
+TOP 1 18.08000194 17.00001426 180 N 37 8 D2-2
+#
+# CMP 31
+CMP 8 3.50000062 16.99999902 0 N D1 110-00019 ;0=1,1=1.1000
+PRP Arena_Link 'https://app.bom.com/a/4M5DJQ9Q9SR7DV4H?v=spec.summary'
+PRP Body_Size '0.8mm x 0.6mm'
+PRP Component_Mounting_Type 'SMT'
+PRP Diode_Type 'TVS'
+PRP Height '0.4mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'ON Semiconductor'
+PRP Manufacturer_P/N 'ESD9B3.3ST5G'
+PRP MFG_Package 'SOD-923'
+PRP Package_Type 'SOD'
+PRP Part_Name 'Diode TVS 3.3V SOD-923'
+PRP Part_Number '110-00019'
+PRP Part_Type 'Diode'
+PRP Pins '2'
+PRP Revision '0A'
+PRP Supplier_1 'Arrow'
+PRP Supplier_Part_Number_1 'ESD9B3.3ST5G'
+PRP Use_in_new_designs 'Yes'
+PRP Voltage '3.3V'
+TOP 0 3.08000146 16.99998378 0 N 34 0 D1-1
+TOP 1 3.91999978 16.99998378 0 N 37 3 D1-2
+#

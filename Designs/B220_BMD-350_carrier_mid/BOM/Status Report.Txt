@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 5:48:44 PM On 9/2/2021
+
+Output: Production BOM
+Type  : BOM
+From  : Variant [B212_ANNA-B1_Corner_carrier_mid] of Project [B220_BMD-350_carrier_mid.PrjPcb]
+   Generated File[B220 BMD-350 CM_A_MFG_BOM.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 5:48:50 PM On 9/2/2021

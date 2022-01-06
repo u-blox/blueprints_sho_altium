@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 10:06:14 AM On 9/3/2021
+
+Output: Production BOM
+Type  : BOM
+From  : Variant [[No Variations]] of Project [B233_NORA-B106_carrier_small.PrjPcb]
+   Generated File[B233 NORA-B106 CS_A_MFG_BOM.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:06:19 AM On 9/3/2021

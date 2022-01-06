@@ -1,0 +1,542 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 4 17.42499944 11.49999986 180 N C3 UBXH01-2021002100N ;0=1,1=0.6000
+PRP Automotive 'None'
+PRP Critical 'None'
+PRP Editor 'roland.rust'
+PRP Env 'GREEN'
+PRP Manufacturer 'Samsung Electro-Mechanics'
+PRP Manufacturer_2 'None'
+PRP Manufacturer_3 'None'
+PRP Manufacturer_P/N 'CL05A104KP5NNN'
+PRP Manufacturer_P/N_2 'None'
+PRP Manufacturer_P/N_3 'None'
+PRP Max_Current 'None'
+PRP Max_Operating_Temp 'None'
+PRP Max_Power 'None'
+PRP Max_Voltage '10.0V'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=28113'
+PRP Mfg_P/N_Datasheet_2 'None'
+PRP Mfg_P/N_Datasheet_3 'None'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'None'
+PRP Mfg_P/N_Released_3 'None'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Split_2 'None'
+PRP Mfg_P/N_Split_3 'None'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'None'
+PRP Mfg_P/N_Status_3 'None'
+PRP Min_Operating_Temp 'None'
+PRP Part_Number 'UBXH01-2021002'
+PRP Part_Type 'Capacitor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'C'
+PRP Release_Data '2005-07-22 13:59:44'
+PRP Released_by 'roland.rust'
+PRP Single_Source 'None'
+PRP Size '0x0y'
+PRP Tolerance '10%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=5759'
+PRP Value '100N'
+TOP 0 17.87499854 11.49999986 90 N 21 6 C3-1
+TOP 1 16.97500034 11.49999986 90 N 20 26 C3-2
+#
+# CMP 1
+CMP 0 10.74999882 17.40000076 180 N D3 115-00011 ;0=1,1=1.0000
+PRP Arena_Link 'https://app.bom.com/a/UCV39GZGZIHY581D?v=spec.summary'
+PRP Body_Size '2.0mm x 2.0mm'
+PRP Color 'RGB'
+PRP Component_Mounting_Type 'SMT'
+PRP Current '20mA Red, 10mA Green, 10mA, Blue'
+PRP Height '1mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'Cree, Inc.'
+PRP Manufacturer_P/N 'CLMVB-FKA-CFHEHLCBB7a363'
+PRP MFG_Package 'PLCC4'
+PRP Mounting_Type 'Vertical'
+PRP Number_of_Circuits '3'
+PRP Package_Type 'Custom'
+PRP Part_Name 'LED RGB SMT 2mm x 2mm'
+PRP Part_Number '115-00011'
+PRP Part_Type 'LED'
+PRP Pins '4'
+PRP Revision '0A'
+PRP Supplier_1 'Mouser'
+PRP Supplier_Part_Number_1 '941-CLMVBFKACFHEHLCB'
+PRP Use_in_new_designs 'Yes'
+PRP Vf '2V Red, 3V Green, 3V Blue'
+PRP Voltage '5V'
+TOP 0 9.99999778 17.94999966 180 N 21 2 D3-1
+TOP 1 11.49999986 17.94999966 180 N 3 1 D3-2
+TOP 2 11.49999986 16.85000186 180 N 2 0 D3-3
+TOP 3 9.99999778 16.85000186 180 N 1 1 D3-4
+#
+# CMP 2
+CMP 3 20.00000064 16.99999902 0 N U1 =Value ;0=1,1=1.5000
+PRP Body_Size '9.5mm x 7.5mm'
+PRP DNP ''
+PRP Height '1.5mm'
+PRP Internal_Antenna 'Yes'
+PRP Manufacturer 'u-blox'
+PRP Manufacturer_P/N 'BMD-380-A-R'
+PRP Part_Number 'BMD-380'
+PRP Protocol 'BT 5.1 LE, 802.15.4, 2.4GHz Proprietary'
+TOP 0 16.79999942 21.27499936 90 N 20 17 U1-1
+TOP 1 16.79999942 20.049998 0 N 20 18 U1-2
+TOP 2 16.79999942 18.82499918 0 N 20 19 U1-3
+TOP 3 17.45000066 18.39999876 0 N 15 0 U1-4
+TOP 4 18.3000015 18.39999876 0 N 20 20 U1-5
+TOP 5 16.79999942 17.97499834 0 N 0 26 U1-6
+TOP 6 17.45000066 17.54999792 0 N 14 0 U1-7
+TOP 7 18.3000015 17.54999792 0 N 0 27 U1-8
+TOP 8 16.79999942 17.1249975 0 N 12 1 U1-9
+TOP 9 17.45000066 16.69999962 0 N 11 0 U1-10
+TOP 10 18.3000015 16.69999962 0 N 0 28 U1-11
+TOP 11 16.79999942 16.2749992 0 N 13 0 U1-12
+TOP 12 17.45000066 15.84999878 0 N 10 1 U1-13
+TOP 13 18.3000015 15.84999878 0 N 0 29 U1-14
+TOP 14 16.79999942 15.42499836 0 N 0 30 U1-15
+TOP 15 17.45000066 14.99999794 0 N 17 2 U1-16
+TOP 16 18.3000015 14.99999794 0 N 16 0 U1-17
+TOP 17 16.79999942 14.57499752 0 N 0 33 U1-18
+TOP 18 17.45000066 14.1499971 0 N 0 32 U1-19
+TOP 19 18.3000015 14.1499971 0 N 0 31 U1-20
+TOP 20 16.79999942 13.72499922 0 N 0 34 U1-21
+TOP 21 17.45000066 13.2999988 0 N 21 3 U1-22
+TOP 22 16.79999942 12.64999756 0 N 20 21 U1-23
+TOP 23 17.87500108 12.64999756 0 N 21 4 U1-24
+TOP 24 18.3000015 13.2999988 0 N 0 35 U1-25
+TOP 25 18.72499938 12.64999756 0 N 0 25 U1-26
+TOP 26 19.1499998 13.2999988 0 N 8 1 U1-27
+TOP 27 19.57500022 12.64999756 0 N 0 24 U1-28
+TOP 28 20.00000064 13.2999988 0 N 7 1 U1-29
+TOP 29 20.42500106 12.64999756 0 N 6 1 U1-30
+TOP 30 20.85000148 13.2999988 0 N 9 1 U1-31
+TOP 31 21.27499936 12.64999756 0 N 0 23 U1-32
+TOP 32 21.69999978 13.2999988 0 N 0 22 U1-33
+TOP 33 22.1250002 12.64999756 0 N 4 1 U1-34
+TOP 34 23.19999932 12.64999756 0 N 20 16 U1-35
+TOP 35 22.55000062 13.2999988 0 N 18 0 U1-36
+TOP 36 23.19999932 13.72499922 0 N 0 21 U1-37
+TOP 37 22.55000062 14.1499971 0 N 19 1 U1-38
+TOP 38 21.69999978 14.1499971 0 N 0 20 U1-39
+TOP 39 23.19999932 14.57499752 0 N 0 19 U1-40
+TOP 40 22.55000062 14.99999794 0 N 0 18 U1-41
+TOP 41 21.69999978 14.99999794 0 N 0 17 U1-42
+TOP 42 23.19999932 15.42499836 0 N 0 16 U1-43
+TOP 43 22.55000062 15.84999878 0 N 0 15 U1-44
+TOP 44 21.69999978 15.84999878 0 N 0 14 U1-45
+TOP 45 23.19999932 16.2749992 0 N 5 1 U1-46
+TOP 46 22.55000062 16.69999962 0 N 0 13 U1-47
+TOP 47 21.69999978 16.69999962 0 N 0 12 U1-48
+TOP 48 23.19999932 17.1249975 0 N 0 11 U1-49
+TOP 49 22.55000062 17.54999792 0 N 0 10 U1-50
+TOP 50 21.69999978 17.54999792 0 N 0 9 U1-51
+TOP 51 23.19999932 17.97499834 0 N 0 8 U1-52
+TOP 52 22.55000062 18.39999876 0 N 0 7 U1-53
+TOP 53 21.69999978 18.39999876 0 N 20 15 U1-54
+TOP 54 23.19999932 18.82499918 0 N 20 14 U1-55
+TOP 55 23.19999932 20.049998 0 N 20 13 U1-56
+TOP 56 23.19999932 21.27499936 0 N 20 12 U1-57
+TOP 57 20.42500106 18.39999876 0 N 20 11 U1-58
+TOP 58 20.42500106 17.54999792 0 N 0 6 U1-59
+TOP 59 19.57500022 16.69999962 0 N 0 5 U1-60
+TOP 60 20.42500106 15.84999878 0 N 0 4 U1-61
+TOP 61 19.57500022 14.99999794 0 N 0 3 U1-62
+TOP 62 20.42500106 14.1499971 0 N 20 10 U1-63
+#
+# CMP 3
+CMP 1 20.00000064 1.39999974 0 N P2 61300811021 ;0=2,1=0.0000
+PRP Contact_Resistance '20mOhm'
+PRP Datasheet_URL 'https://katalog.we-online.de/em/datasheet/6130xx11021.pdf'
+PRP Gender 'Male'
+PRP Manufacturer 'Wurth Electronics'
+PRP Manufacturer_Part_Number '61300811021'
+PRP Manufacturer_URL 'http://www.we-online.de'
+PRP Mounting_Technology 'THT'
+PRP Operating_Temperature '-40to105degC'
+PRP Orientation 'Angled'
+PRP Package_Reference '61300811021'
+PRP Packaging 'Bag'
+PRP Part_Number '61300811021'
+PRP Pin_Number '8'
+PRP Pitch '2.54mm'
+PRP Publisher 'WurthElektronik'
+PRP Rated_Current '3A'
+PRP Row_Number 'Single'
+PRP Withstanding_Voltage '500VAC'
+PRP Working_Voltage '250VAC'
+TOP 0 28.89000064 4.16999928 0 N 21 1 P2-1
+TOP 1 26.35000064 4.16999928 0 N 7 0 P2-2
+TOP 2 23.81000064 4.16999928 0 N 6 0 P2-3
+TOP 3 21.27000064 4.16999928 0 N 8 0 P2-4
+TOP 4 18.73000064 4.16999928 0 N 9 0 P2-5
+TOP 5 16.19000064 4.16999928 0 N 4 0 P2-6
+TOP 6 13.65000064 4.16999928 0 N 5 0 P2-7
+TOP 7 11.11000064 4.16999928 0 N 20 5 P2-8
+#
+# CMP 4
+CMP 5 37.5000012 2.50000008 0 N MH2 MH_M1.5DNP ;0=2,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '7/9/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Features ''
+PRP Height '0mm'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'MH_M1.5'
+PRP Size '3.4mm x 3.4mm'
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+PRP Type 'Mounting Hole'
+TOP 0 37.5000012 2.50000008 0 N 20 6 MH2-1
+#
+# CMP 5
+CMP 5 2.50000008 2.50000008 0 N MH1 MH_M1.5DNP ;0=2,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '7/9/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Features ''
+PRP Height '0mm'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'MH_M1.5'
+PRP Size '3.4mm x 3.4mm'
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+PRP Type 'Mounting Hole'
+TOP 0 2.50000008 2.50000008 0 N 20 4 MH1-1
+#
+# CMP 6
+CMP 8 37.49000122 11.53500106 90 N P1 TC2030-IDC-NLDNP ;0=1,1=0.0000
+PRP Added_By 'Paul B'
+PRP Added_Date '4/22/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer 'TAG Connect'
+PRP Manufacturer_P/N 'TC2030-IDC-NL'
+PRP Part_Number 'TC2030-IDC-NL'
+PRP Size '6.731mm x 12.446mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 36.47400122 6.45500106 90 N 0 0 P1-0
+TOP 1 38.50600122 6.45500106 90 N 0 1 P1-0
+TOP 2 37.49000122 11.53500106 90 N 0 2 P1-0
+TOP 3 36.85500122 10.26500106 90 N 21 5 P1-1
+TOP 4 38.12500122 10.26500106 90 N 14 1 P1-2
+TOP 5 36.85500122 8.99500106 90 N 13 1 P1-3
+TOP 6 38.12500122 8.99500106 90 N 15 1 P1-4
+TOP 7 36.85500122 7.72500106 90 N 20 22 P1-5
+TOP 8 38.12500122 7.72500106 90 N 0 36 P1-6
+#
+# CMP 7
+CMP 9 24.94999836 13.72499668 90 N X1 100-00005 ;0=1,1=0.9000
+PRP Arena_Link 'https://app.bom.com/a/L3MU07Q7Q98O5PC8?v=spec.summary'
+PRP Body_Size '3.2mm x 1.5mm'
+PRP CL '7pF'
+PRP Component_Mounting_Type 'SMT'
+PRP Frequency '32.768kHz'
+PRP Frequency_Tolerance '20ppm'
+PRP Height '0.9mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'Epson'
+PRP Manufacturer_2 'AVX Corporation'
+PRP Manufacturer_P/N 'FC-135 32.7680KA-AG3'
+PRP Manufacturer_P/N_2 'ST3215SB32768C0HPWBB'
+PRP MFG_Package '2-SMD'
+PRP Part_Name 'XTAL 32.768kHz 7pF 20ppm 3215'
+PRP Part_Number '100-00005'
+PRP Part_Type 'Crystal/Oscillator'
+PRP Pins '2'
+PRP Revision '0C'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'SER4086CT-ND'
+PRP Supplier_Part_Number_2 '1253-1113-1-ND'
+PRP Use_in_new_designs 'Yes'
+TOP 0 24.94999836 15.02499662 90 N 19 2 X1-1
+TOP 1 24.94999836 12.42499674 90 N 18 1 X1-2
+#
+# CMP 8
+CMP 2 31.9999995 9.55000122 0 N SW2 135-00007 ;0=1,1=1.2000
+PRP Arena_Link 'https://app.bom.com/a/TBU28FYFYHGV5FQ0?v=spec.summary'
+PRP Body_Size '3mm x 2.5mm'
+PRP Component_Mounting_Type 'SMT'
+PRP Current '50mA'
+PRP Height '1.2mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'Omron Electronics Inc-EMC Div'
+PRP Manufacturer_P/N 'B3U-1000P'
+PRP Part_Name 'SWITCH TACTILE SPST-NO 0.05A 12V'
+PRP Part_Number '135-00007'
+PRP Part_Type 'Button'
+PRP Pins '2'
+PRP Revision '0A'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'SW1020CT-ND'
+PRP Switch/Button_Circuit 'SPST'
+PRP Switch/Button_Function 'Off-Mom'
+PRP Use_in_new_designs 'Yes'
+PRP Voltage '12VDC'
+TOP 0 30.30000036 9.55000122 270 N 16 1 SW2-1
+TOP 1 33.69999864 9.55000122 270 N 20 23 SW2-2
+#
+# CMP 9
+CMP 2 7.99999924 9.55000122 180 N SW1 135-00007 ;0=1,1=1.2000
+PRP Arena_Link 'https://app.bom.com/a/TBU28FYFYHGV5FQ0?v=spec.summary'
+PRP Body_Size '3mm x 2.5mm'
+PRP Component_Mounting_Type 'SMT'
+PRP Current '50mA'
+PRP Height '1.2mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'Omron Electronics Inc-EMC Div'
+PRP Manufacturer_P/N 'B3U-1000P'
+PRP Part_Name 'SWITCH TACTILE SPST-NO 0.05A 12V'
+PRP Part_Number '135-00007'
+PRP Part_Type 'Button'
+PRP Pins '2'
+PRP Revision '0A'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'SW1020CT-ND'
+PRP Switch/Button_Circuit 'SPST'
+PRP Switch/Button_Function 'Off-Mom'
+PRP Use_in_new_designs 'Yes'
+PRP Voltage '12VDC'
+TOP 0 9.69999838 9.55000122 90 N 17 1 SW1-1
+TOP 1 6.3000001 9.55000122 90 N 20 9 SW1-2
+#
+# CMP 10
+CMP 6 13.0499993 16.84999932 180 N R3 180-00098220R ;0=1,1=0.4000
+PRP Alternate_Footprint_Ref 'RES 0402'
+PRP Arena_Link 'https://app.bom.com/a/8Q9HNUDUDWVBJC30?v=spec.summary'
+PRP Component_Mounting_Type 'SMT'
+PRP Height '0.4mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_2 'Samsung Electro-Mechanics America, Inc'
+PRP Manufacturer_P/N 'ERJ-2GEJ221X'
+PRP Manufacturer_P/N_2 'RC1005J221CS'
+PRP Part_Name 'RES SMD 220 OHM 5% 1/16W 0402'
+PRP Part_Number '180-00098'
+PRP Part_Type 'Resistor'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0C'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'P220JCT-ND'
+PRP Supplier_Part_Number_2 '1276-4360-1-ND'
+PRP Tolerance '+/- 5%'
+PRP Use_in_new_designs 'Yes'
+PRP Value '220R'
+TOP 0 13.4499985 16.84999932 90 N 11 1 R3-1
+TOP 1 12.6500001 16.84999932 90 N 2 1 R3-2
+#
+# CMP 11
+CMP 6 13.0499993 17.94999966 180 N R2 180-00098220R ;0=1,1=0.4000
+PRP Alternate_Footprint_Ref 'RES 0402'
+PRP Arena_Link 'https://app.bom.com/a/8Q9HNUDUDWVBJC30?v=spec.summary'
+PRP Component_Mounting_Type 'SMT'
+PRP Height '0.4mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_2 'Samsung Electro-Mechanics America, Inc'
+PRP Manufacturer_P/N 'ERJ-2GEJ221X'
+PRP Manufacturer_P/N_2 'RC1005J221CS'
+PRP Part_Name 'RES SMD 220 OHM 5% 1/16W 0402'
+PRP Part_Number '180-00098'
+PRP Part_Type 'Resistor'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0C'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'P220JCT-ND'
+PRP Supplier_Part_Number_2 '1276-4360-1-ND'
+PRP Tolerance '+/- 5%'
+PRP Use_in_new_designs 'Yes'
+PRP Value '220R'
+TOP 0 13.4499985 17.94999966 90 N 10 0 R2-1
+TOP 1 12.6500001 17.94999966 90 N 3 0 R2-2
+#
+# CMP 12
+CMP 6 8.45000088 16.84999932 0 N R1 180-00031499R ;0=1,1=0.4000
+PRP Alternate_Footprint_Ref 'RES 0402'
+PRP Arena_Link 'https://app.bom.com/a/Q8RZ5CVCVEDU1SS5?v=spec.summary'
+PRP Component_Mounting_Type 'SMT'
+PRP Height '0.4mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'Rohm Semiconductor'
+PRP Manufacturer_2 'Samsung Electro-Mechanics America, Inc'
+PRP Manufacturer_P/N 'MCR01MRTF4990'
+PRP Manufacturer_P/N_2 'RC1005F4990CS'
+PRP Part_Name 'RES SMD 499 OHM 1% 1/16W 0402'
+PRP Part_Number '180-00031'
+PRP Part_Type 'Resistor'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0D'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'RHM499CDCT-ND'
+PRP Supplier_Part_Number_2 '1276-3992-1-ND'
+PRP Tolerance '+/- 1%'
+PRP Use_in_new_designs 'Yes'
+PRP Value '499R'
+TOP 0 8.05000168 16.84999932 270 N 12 0 R1-1
+TOP 1 8.85000008 16.84999932 270 N 1 0 R1-2
+#
+# CMP 13
+CMP 7 28.7249997 9.9749991 270 N D2 110-00019 ;0=1,1=1.1000
+PRP Arena_Link 'https://app.bom.com/a/4M5DJQ9Q9SR7DV4H?v=spec.summary'
+PRP Body_Size '0.8mm x 0.6mm'
+PRP Component_Mounting_Type 'SMT'
+PRP Diode_Type 'TVS'
+PRP Height '0.4mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'ON Semiconductor'
+PRP Manufacturer_P/N 'ESD9B3.3ST5G'
+PRP MFG_Package 'SOD-923'
+PRP Package_Type 'SOD'
+PRP Part_Name 'Diode TVS 3.3V SOD-923'
+PRP Part_Number '110-00019'
+PRP Part_Type 'Diode'
+PRP Pins '2'
+PRP Revision '0A'
+PRP Supplier_1 'Arrow'
+PRP Supplier_Part_Number_1 'ESD9B3.3ST5G'
+PRP Use_in_new_designs 'Yes'
+PRP Voltage '3.3V'
+TOP 0 28.72501494 9.55499994 270 N 16 2 D2-1
+TOP 1 28.72501494 10.39499826 270 N 20 24 D2-2
+#
+# CMP 14
+CMP 7 11.05000076 9.9749991 270 N D1 110-00019 ;0=1,1=1.1000
+PRP Arena_Link 'https://app.bom.com/a/4M5DJQ9Q9SR7DV4H?v=spec.summary'
+PRP Body_Size '0.8mm x 0.6mm'
+PRP Component_Mounting_Type 'SMT'
+PRP Diode_Type 'TVS'
+PRP Height '0.4mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'ON Semiconductor'
+PRP Manufacturer_P/N 'ESD9B3.3ST5G'
+PRP MFG_Package 'SOD-923'
+PRP Package_Type 'SOD'
+PRP Part_Name 'Diode TVS 3.3V SOD-923'
+PRP Part_Number '110-00019'
+PRP Part_Type 'Diode'
+PRP Pins '2'
+PRP Revision '0A'
+PRP Supplier_1 'Arrow'
+PRP Supplier_Part_Number_1 'ESD9B3.3ST5G'
+PRP Use_in_new_designs 'Yes'
+PRP Voltage '3.3V'
+TOP 0 11.050016 9.55499994 270 N 17 0 D1-1
+TOP 1 11.050016 10.39499826 270 N 20 8 D1-2
+#
+# CMP 15
+CMP 4 25.4 11.09999812 0 N C2 UBXH01-000411410P ;0=1,1=0.6000
+PRP Automotive 'None'
+PRP Critical 'None'
+PRP Editor 'martin.frauchiger'
+PRP Env 'ROHS'
+PRP Manufacturer 'Murata Manufacturing Company, Ltd.'
+PRP Manufacturer_2 'None'
+PRP Manufacturer_3 'None'
+PRP Manufacturer_P/N 'GRM1555C1H100CZ01'
+PRP Manufacturer_P/N_2 'None'
+PRP Manufacturer_P/N_3 'None'
+PRP Max_Current 'None'
+PRP Max_Operating_Temp 'None'
+PRP Max_Power 'None'
+PRP Max_Voltage '25.0V'
+PRP Mfg_P/N_Datasheet 'None'
+PRP Mfg_P/N_Datasheet_2 'None'
+PRP Mfg_P/N_Datasheet_3 'None'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'None'
+PRP Mfg_P/N_Released_3 'None'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Split_2 'None'
+PRP Mfg_P/N_Split_3 'None'
+PRP Mfg_P/N_Status 'Obsolete'
+PRP Mfg_P/N_Status_2 'None'
+PRP Mfg_P/N_Status_3 'None'
+PRP Min_Operating_Temp 'None'
+PRP Part_Number 'UBXH01-0004114'
+PRP Part_Type 'Capacitor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'C'
+PRP Release_Data '2005-09-01 15:36:53'
+PRP Released_by 'martin.frauchiger'
+PRP Single_Source 'None'
+PRP Size '0x0y'
+PRP Tolerance '5%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=5225'
+PRP Value '10P'
+TOP 0 24.9500009 11.09999812 270 N 18 2 C2-1
+TOP 1 25.8499991 11.09999812 270 N 20 25 C2-2
+#
+# CMP 16
+CMP 4 25.4 16.32499656 0 N C1 UBXH01-000411410P ;0=1,1=0.6000
+PRP Automotive 'None'
+PRP Critical 'None'
+PRP Editor 'martin.frauchiger'
+PRP Env 'ROHS'
+PRP Manufacturer 'Murata Manufacturing Company, Ltd.'
+PRP Manufacturer_2 'None'
+PRP Manufacturer_3 'None'
+PRP Manufacturer_P/N 'GRM1555C1H100CZ01'
+PRP Manufacturer_P/N_2 'None'
+PRP Manufacturer_P/N_3 'None'
+PRP Max_Current 'None'
+PRP Max_Operating_Temp 'None'
+PRP Max_Power 'None'
+PRP Max_Voltage '25.0V'
+PRP Mfg_P/N_Datasheet 'None'
+PRP Mfg_P/N_Datasheet_2 'None'
+PRP Mfg_P/N_Datasheet_3 'None'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'None'
+PRP Mfg_P/N_Released_3 'None'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Split_2 'None'
+PRP Mfg_P/N_Split_3 'None'
+PRP Mfg_P/N_Status 'Obsolete'
+PRP Mfg_P/N_Status_2 'None'
+PRP Mfg_P/N_Status_3 'None'
+PRP Min_Operating_Temp 'None'
+PRP Part_Number 'UBXH01-0004114'
+PRP Part_Type 'Capacitor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'C'
+PRP Release_Data '2005-09-01 15:36:53'
+PRP Released_by 'martin.frauchiger'
+PRP Single_Source 'None'
+PRP Size '0x0y'
+PRP Tolerance '5%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=5225'
+PRP Value '10P'
+TOP 0 24.9500009 16.32499656 270 N 19 0 C1-1
+TOP 1 25.8499991 16.32499656 270 N 20 7 C1-2
+#

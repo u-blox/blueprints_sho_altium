@@ -37,22 +37,18 @@ The following blueprints are maintained here:
 Directory structure
 ---------------------------------------------------------------------------------
 ```
-/--+---Bxxx
+/--+---Designs (Altium design files)
    |   |
-   |   +--- Design (Altium design files)
-   |   |
-   |   +--- Chamber scans (3D anechoic chamber scans at 3 m)
+   |   +--- Bxxx
+   |   +--- Byyy
+   |   +--- Bzzz
+   |   ...
    |
-   +---Byyy
-   |   |
-   |   +--- Design (Altium design files)
-   |   |
-   |   +--- Chamber scans (3D anechoic chamber scans at 3 m)
-   |
-   +---Bzzz
-   .   |
-   .   .
-   .   .
+   +---Chamber scans
+       |
+       +--- Bxxx
+       +--- Byyy
+       +--- Bzzz
 ```
 
 Chamber scans

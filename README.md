@@ -33,9 +33,10 @@ The folder structure is arranged like this:
        +--- Byyy
        +--- Bzzz
        +--- EVK-abcd
-```
+
 ... where "Bxxx", "Byyy", etc. are the blueprint numbers and "EVK-abcd" is the 
 EVK board name.
+
 
 ---------------------------------------------------------------------------------
 Copyright © u-blox
